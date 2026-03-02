@@ -1,0 +1,1667 @@
+RADIO_ID,CALLSIGN,FIRST_NAME,LAST_NAME,CITY,STATE,COUNTRY
+4420000,CZ1_PETRBA,Petr,,Praha 5,,Barrandov,,
+
+4460000,0DS_MAJK,Majk,,,,Usti,, 
+4460001,0DS_ZDENEK,Zdenek,,,,Jihlava,,
+4460002,0DS_JNDUST,Jindra,,,,Usti,,
+4460003,0DS_ZAHRAD,Zahradnik,,,,Usti,, 
+4460004,0DS_VLASTA,,,,,Lukavec,,
+4460005,0DS_ARES,Ares,,,,Usti,,
+4460006,0DS_MICHPO,Michal,,,,Polepy,,
+4460007,0DS_PETRSU,Petr,,,,Sukoslav,, 
+4460008,0DS_PETRKN,Petr,,,,Knizkovice,,
+4460009,0DS_MARTAN,Martan,,,,Kladno,, 
+4460011,0DS_MIRVIN,Mirek,,,,Vinohrady,,
+4460012,0DS_CERVTC,Cervotoc,,,,,,
+4460013,0DS_LUKEVA,Luke,,,,Valtice,,
+4460014,0DS_HONTRE,Honza,,,,Trebusin,,
+4460015,0DS_JIRVSE,Jirka,,,,Vsejany,,
+4460016,0DS_TOMBEN,Tomas,,,,Benatky,,
+4460017,0DS_TOMMIL,Tomas,,,,Milovice,,
+4460018,0DS_KARJIH,Karel,,,,Jihlava,,
+4460019,0DS_LUDVAM,Ludva,,,,Most,,
+4460020,0DS_KAMIL,Kamil,,,,Poruba,,
+4460021,0DS_DADABE,Dada,,,,Benatky,,
+4460022,0DS_RUDAK,Ruda,,,,Kunratice,,
+4460023,0DS_GAMA,Gama,,,,Praha,,
+4460024,0DS_KOSDOM,Kostelnik,,,,Domazlice,,
+4460025,0DS_LIBORP,Libor,,,,Plana,,
+4460026,0DS_PETRBA,Petr,,Praha 5,,Barrandov,,
+4460027,0DS_MIKES,Mikesak,,,,,,
+4460028,0DS_OKOJIH,Oko,,,,Jihlava,,
+4460029,0DS_MATESC,MaTes,,,,Chrudim,,
+4460030,0DS_DAVDOM,David,,,,Domazlice,,
+4460031,0DS_XXX,xxx,,,,,,
+4460032,0DS_ZDEVCR,Zdenek,,,,Stara ves,,
+4460033,0DS_OK2MOT,Karel,,,,Lopenik,,
+4460034,0DS_STANDO,Standa,,,,Domazlice,,
+4460035,0DS_PANTER,Panter,,,,Jiloviste,,
+4460036,0DS_FRANUB,Frantisek,,,,Uhersky Brod,,
+4460037,0DS_HONPHA,Honza,,Praha,,,,
+4460038,0DS_JOKAUB,Joka,,,,Uhersky Brod,,
+4460039,0DS_MIROHL,Miro,,,,Hlohovec,,
+4460040,0DS_OTTOST,Otto,,,,Stepankovice,,
+4460041,0DS_MIROBB,Miro,,,,Banska Bystrica,,
+4460042,0DS_PALOBB,Palo,,,,Banska Bystrica,,
+4460043,0DS_DANN,Dan,,,,Kaznejov,,
+4460044,0DS_OK1XFM,Martin,,,,Snezna,,
+4460045,0DS_DANTEP,Daniel,,,,Teplice,,
+4460046,0DS_PETRTE,Petr,,,,Teplice,,
+4460047,0DS_MIRTIS,Mirek,,,,Tisovec,,
+4460048,0DS_DOMRUD,Dominik,,,,Rudna,,
+4460049,0DS_OK4MMC,Malickej,,,,Rakovnik,,
+4460050,0DS_JEARRA,JEAR,,,,Rakovnik,,
+4460051,0DS_EMILCE,Emil,,,,Cepi,,
+4460052,0DS_ALESDU,Ales,,,,Dubina,,
+4460053,0DS_OK1PPL,Zdenek,,,,Liberec,,
+4460054,0DS_DENISZ,Denis,,,,Zluty pes,,
+4460055,0DS_BASTRD,Bastard,,,,Havirov,,
+4460056,0DS_PETRPA,Petr,,,,Parez,,
+4460057,0DS_PETLAS,Peta Laso,,,,Poruba,,
+4460058,0DS_ONDRAB,Ondra,,,,Bory,,
+4460059,0DS_MIKKIM,Mikki,,,,Mezimesti,,
+4460060,0DS_MARTRE,Martin,,,,Trest,,
+4460061,0DS_CHARLI,Charlie,,,,Rozhledna,,
+4460062,0DS_FAKTOR,Faktor,,,,Nehvizdy,,
+4460063,0DS_PAVKLT,Pavel,,,,Klatovy,,
+4460064,0DS_FRANBR,Franta,,,,Brancouze,,
+4460065,0DS_LADIN,Ladin,,,,Jihlava,,
+4460066,0DS_PARTY,Pavel,,,,Slezska Ostrava,,
+4460067,0DS_ALFI,Alfi,,,,Jihlava,,
+4460068,0DS_MILDA,Milda,,,,Opocno,,
+4460069,0DS_PEPIKZ,Pepik,,,,Zihle,,
+4460070,0DS_CIHAN,Milan,,,,Cihan,,
+4460071,0DS_OK1BKO,Radan,,,,Kolin,,
+4460072,0DS_MOUSE,Mouse,,,,Stod,,
+4460073,0DS_OK8PH,Patrik,,,,As,,
+4460074,0DS_PETRBZ,Petr,,,,Brno-Zidenice,,
+4460075,0DS_MAREKJ,Marek,,,,Jihlava,,
+4460076,0DS_MAHONY,Mahony,,,,Vanov,,
+4460077,0DS_TOMKDN,Tom,,,,Kdyne,,
+4460078,0DS_PAVKYN,Pavel,,,,Kynsperk,,
+4460079,0DS_PETRSK,Petr,,,,Skocice,,
+4460080,0DS_MARSKO,Martin,,,,Majov,,
+4460081,0DS_LUKASZ,Lukas,,,,Zadovice,,
+4460082,0DS_LUKASU,Lukas,,,,Usti,,
+4460083,0DS_JAKUBH,Jakub,,,,Hradec Kralove,,
+4460084,0DS_KACERS,Kacer,,,,Skorice,,
+4460085,0DS_JNDMEC,Jindra,,,,Meclov,,
+4460086,0DS_HONZLN,Honza,,,,Zlin,,
+4460087,0DS_ZEBRAR,Zebra,,,,Rumburk,,
+4460088,0DS_TOMZAB,Tomas,,,,Zabori,,
+4460089,0DS_FRANTR,Frantisek,,,,Troja,,
+4460090,0DS_DANCM,Dan,,,,Cerny Most,,
+4460091,0DS_LUBSOK,Lubos,,,,Plzen,,
+4460092,0DS_SLAVEK,Slavek,,,,Kojice,,
+4460093,0DS_JOFUTA,Josef,,,,Tabor,,
+4460094,0DS_HONBOU,Honza,,,,Bournak,,
+4460095,0DS_PAVNMM,Pavel,,,,Nove Mesto n.M,,
+4460096,0DS_JOSEFO,Josef,,,,Opatovice,,
+4460097,0DS_HONZAH,Honza,,,,Hylvaty,,
+4460098,0DS_TOMPAR,Tomas,,,,Pardubice,,
+4460099,0DS_VOJTAU,Vojta,,,,Usti,,
+4460100,0DS_MARJEV,Martin,,,,Jevicko,,
+4460101,0DS_SYSOPB,Sysop,,,,Blansko,,
+4460102,0DS_IVAN,Ivan,,,,Vinohrady,,
+4460103,0DS_RUDADR,Ruda,,,,Drazice,,
+4460104,0DS_DAVBIL,David,,,,Bilovice,,
+4460105,0DS_MARTVD,Martin,,,,Velka Dobra,,
+4460106,0DS_THOMAS,Thomas,,,,Zatec,,
+4460107,0DS_FANTOM,Fantomas,,,,,,
+4460108,0DS_JARDAK,Jarda,,,,Kolin,,
+4460109,0DS_HONJIH,Honza,,,,Jihlava,,
+4460110,0DS_MAXON,Maxon,,,,Teplice,,
+4460111,0DS_FRANBY,Franta,,,,Bystrany,,
+4460112,0DS_JARDAC,Jarda,,,,Dolni Cerekev,,
+4460113,0DS_APOLLO,Apollo,,,,Mistek,,
+4460114,0DS_GARRYK,Garry,,,,Karolinka,,
+4460115,0DS_MICHJH,Michal,,,,,,
+4460116,0DS_REX,RIP,,,,Rex Navzdy s nami,,
+4460117,0DS_SOKOL3,SokolTrojka,,,,,,
+4460118,0DS_KAREL2,Karel II,,,,,,
+4460119,0DS_VLASTS,Vlasta,,,,Strekov,,
+4460120,0DS_KRAKON,Mates,,,,Strekov,,
+4460121,0DS_HONSTE,Honza,,,,Stenovice,,
+4460122,0DS_PEPALI,Pepa,,,,Liberec,,
+4460123,0DS_ALEXKA,Alex,,,,Karolinka,,
+4460124,0DS_KALMRO,Kalimero,,,,,,
+4460125,0DS_PERKNT,Perkonty,,,,Karolinka,,
+4460126,0DS_FILIP,Filip,,,,Vinarice,,
+4460127,0DS_OK9ATD,Expedice Zaba,,,,,,
+4460128,0DS_FORNEL,Fornell,,,,Tabor,,
+4460129,0DS_PATRIK,Patrik,,,,Vodarna,,
+4460130,0DS_TOMSTD,Tomas,,,,Stodulky,,
+4460131,0DS_TROJAK,David,,,,Trojak,,
+4460132,0DS_JIRSEP,Jirka,,,,Sepetely,, 
+4460133,0DS_PETR7,Petr 7,,,,Most,,
+4460134,0DS_STEPAN,Stepan,,,,,,
+4460135,0DS_PAJERO,Zdenek,,,,Benesov,,
+4460136,0DS_URBY,Urby,,,,Rokycany,,
+4460137,0DS_JIROPA,Jirka,,,,Opatovice,,
+4460138,0DS_KOTELN,Kotelnik,,,,Klise,,
+4460139,0DS_ROLAND,Roland,,,,,, 
+4460140,0DS_MILANT,Milan,,,,Tabor,,
+4460141,0DS_CARY,Caryfuk,,,,Tanvald,,
+4460142,0DS_XX,xx,,,,,,
+4460143,0DS_RISACH,Risa,,,,Chrastany,,
+4460144,0DS_MIRAHO,Mira,,,,Horky,,
+4460145,0DS_HANSJI,Hans,,,,Jihlava,,
+4460146,0DS_JIRKAL,Jirka,,,,Liberec,,
+4460147,0DS_GEORGE,George,,,,Roudnice,,
+4460148,0DS_GASTON,Gaston,,,,Sokolov,,
+4460149,0DS_PANLUB,Panelak,,,,Luby,,
+4460150,0DS_VYDRA,Vydra,,,,Tabor,,
+4460151,0DS_FOX,Fox,,,,Prachatice,,
+4460152,0DS_JARDAB,Jarda,,,,Borovany,,
+4460153,0DS_PETRSO,Petr,,,,Sokolnice,,
+4460154,0DS_LUBKRA,Lubos,,,,Krasov,,
+4460155,0DS_MAREK,Marek,,,,Liberec,,
+4460156,0DS_MICHVR,Michal,,,,Vrazkov,,
+4460157,0DS_KOBRA,Kobra,,,,Senica,,
+4460158,0DS_RENDY,Rendy,,,,,,
+4460160,0DS_BOHOUS,Bohous,,,,Sokolov,,
+4460161,0DS_PAVTEP,Pavel,,,,Teplice,,
+4460162,0DS_KARELJ,Karel,,,,Jesenice,,
+4460163,0DS_KOBRIK,Kobrik,,,,,,
+4460164,0DS_NEMO,Pepa,,,,Sokolov,,
+4460165,0DS_EDA,Eda,,,,Strekov,, 
+4460166,0DS_PINKY,Pinky,,,,,, 
+4460167,0DS_MSOLAN,Martin,,,,Solan,,
+4460168,0DS_DAVIDL,David,,,,Luhacovice,,
+4460169,0DS_HENRY,RIP,,,,Henry Navzdy s nami,,
+4460170,0DS_MIRDAB,Mirda,,,,Borovany,,
+4460171,0DS_LORDCZ,Lord,,,,Sokolov,,
+4460172,0DS_KUBA,Kuba,,,,,, 
+4460173,0DS_JNDHRA,Jindra,,,,Hradec,,
+4460174,0DS_MCH,Michal,,,,Roztoky,,
+4460175,0DS_MARZAV,Martin-Zavodi,,,,,,
+4460176,0DS_BEJBY,Bejby XXL,,,,,,
+4460177,0DS_DRAGO,Jaromir,,,,Sedlcany,,
+4460178,0DS_JANXF,RIP,,,,Honza Cerny Most,,
+4460179,0DS_ROMANM,Roman,,,,Moravska,,
+4460180,0DS_MIROKO,Miro,,,,Kosice,,
+4460181,0DS_MICHHR,Michal,,,,Hradek,,
+4460182,0DS_KAROTR,Karel,,,,Otrokovice,,
+4460183,0DS_JIRHUB,Jirka,,,,Hubenov,,
+4460184,0DS_MIRVRA,Mirek,,,,Vrazkov,, 
+4460185,0DS_LUBLOU,Lubos,,,,Loucen,,
+4460186,0DS_LUBBRN,Lubos,,,,Brno,,
+4460187,0DS_MARKOS,Martin,,,,Kostelec,,
+4460188,0DS_MICBER,Michal,,,,Beroun,, 
+4460189,0DS_KOBLIH,Koblizek,,,,,,
+4460190,0DS_ONDREJ,Ondrej,,,,Chlebicov,,
+4460191,0DS_MEDVED,Medved,,,,Brdy,,
+4460192,0DS_DEJVVV,Dejv,,,,Vysoke Veseli,,
+4460193,0DS_JANVAR,Jan,,,,Vary,,
+4460194,0DS_VITA,Vita,,,,Chotebor,, 
+4460195,0DS_PETRDO,Pert,,,,Dolin,,
+4460196,0DS_MILHOJ,Milan,,,,Hojna Voda,,
+4460197,0DS_DESTIL,Destilator,,,,,,
+4460198,0DS_JIROTV,Jirka,,,,Otvovice,,
+4460199,0DS_PETRVA,Petr,,,,Vary,,
+4460200,0DS_VIKTOR,Viktor,,,,Plzen,,
+4460201,0DS_VLASTA,Vlasta,,,,Kladno,,
+4460202,0DS_TEST,Test,,,,,,
+4460203,0DS_MILCES,Milan,,,,Cesov,,
+4460204,0DS_RADAR,Radar,,,,Milovice,,
+4460205,0DS_JIRKOB,Jirka,,,,Kobylisy,,
+4460206,0DS_SPACE,Martin,,,,Space,,
+4460207,0DS_MIRPAR,Mira,,,,Pardubice,,
+4460208,0DS_JIRHRA,Jirka,,,,Hradek,,
+4460209,0DS_JIRKTE,Jirka,,,,Telc,,
+4460210,0DS_DAVPRI,David,,,,Pribram,,
+4460211,0DS_MLOCEK,Salamandr,,,,,,
+4460212,0DS_MYSAK,Mysak,,,,Most,,
+4460213,0DS_HONMOH,Honza,,,,Mohurice,,
+4460214,0DS_TOMHR,Tomas,,,,Hradec,,
+4460215,0DS_PAVDMK,Pavel,,,,Dmk,,
+4460216,0DS_DINGO,Dingo,,,,Jihlava,,
+4460217,0DS_PAVOUK,Pavouk,,,,,,
+4460218,0DS_TOMROU,Tomas,,,,Roudnice,,
+4460219,0DS_XORSKI,Xorski,,,,,,
+4460220,0DS_LUDLET,Luda,,,,Letohrad,,
+4460221,0DS_TOMCB,Tomas,,,,Ceske Budejovice,,
+4460222,0DS_VLAROZ,Vlasta,,,,Rozmital,,
+4460159,0DS_APACHE,Apache,,,,Znojmo,,
+4460223,0DS_HONZJI,Honza,,,,Jihlava,,
+4460224,0DS_RENATA,Renata,,,,Snezna,,
+4460225,0DS_SRNEC,Srnec,,,,Jihlava,,
+4460226,0DS_SAILON,Sailon 666,,,,,,
+4460227,0DS_TOMCHR,Tomas,,,,Chrustenice,,
+4460228,0DS_KAMILS,Kamil,,,,Sherwood,,
+4460229,0DS_JINLIT,Jindra,,,,Litomysl,,
+4460230,0DS_HANY,Hany,,,,Vary,,
+4460231,0DS_HONZBR,Honza,,,,Bramberk,,
+4460232,0DS_MARTY,Marty,,,,Jihlava,, 
+4460233,0DS_JIRDK,Jirka,,,,Dolni Kralovice,,
+4460234,0DS_KUBAJI,Kuba,,,,Jihlava,,
+4460235,0DS_PEDRO,Pedro,,,,Jihlava,,
+4460236,0DS_OK1PMP,Michal,,,,Vinicna Lhota,,
+4460237,0DS_ROMAN,Roman,,,,Polabiny,,
+4460238,0DS_JIRKA,Jirka,,,,Uncin,,
+4460239,0DS_KACER,Kacer,,,,,, 
+4460240,0DS_VABUHR,Vasek,,,,Hradek,,
+4460241,0DS_SIRUP,Ci5,,,,SirUp,,
+4460242,0DS_LUKPRI,Lukas,,,,Pribram,, 
+4460243,0DS_BOHJED,Bohous,,,,Jedle,,
+4460244,0DS_MARCHR,Martin,,,,Chrudim,,
+4460245,0DS_RADEKD,Radek,,,,Dubi,,
+4460246,0DS_TARAS,Taras,,,,,,
+4460247,0DS_BOBMLK,BobMLK,,,,,,
+4460248,0DS_PETRPO,Petr,,,,Poruba,,
+4460249,0DS_VITAPO,Vita,,,,Poruba,,
+4460250,0DS_GABI,Gabi,,,,Hradek,,
+4460251,0DS_DANPIK,DANUSAK,,,,,,
+4460252,0DS_DAVID,David,,,,Praha,,
+4460253,0DS_JOHNY,Johny,,,,Most,,
+4460254,0DS_RICHDA,Richard,,,,Dachau,,
+4460255,0DS_ROCHEB,Roman,,,,Cheb,, 
+4460256,0DS_PINDA,Pinda,,,,Kadan,,
+4460257,0DS_COMMOD,Commodore,,,,,,
+4460258,0DS_HODINA,Odpojen,,,,,,
+4460259,0DS_CAJCEK,Cajicek,,,,,,
+4460260,0DS_DAVKER,David,,,,Kersko,,
+4460261,0DS_RICBAR,Richard,,,,Barrandov,, 
+4460262,0DS_ZDEMIL,Zdenek,,,,Milovice,,
+4460263,0DS_KOSTA,Kosta,,,,ZiZkov,,
+4460264,0DS_CERTIK,Certik,,,,Certuv vrsek,,
+4460265,0DS_MARCEL,Marcel,,,,Rokycany,,
+4460266,0DS_IRON,Iron,,,,Tesovice,,
+4460267,0DS_DAVUST,David,,,,Usti,, 
+4460268,0DS_COLOMB,Colombo,,,,,,
+4460269,0DS_LADASM,Lada,,,,Smirice,, 
+4460270,0DS_KLOBUK,Klobouk,,,,,,
+4460271,0DS_MARTY,Marty,,,,Jihlava,,
+4460272,0DS_VEVERK,Veverka,,,,Sumperk.. 
+4460273,0DS_KARRUM,Karel,,,,Rumburk,, 
+4460274,0DS_LUBPRO,Lubos,,,,Prostejov,, 
+4460275,0DS_JIRCHR,Jirka,,,,Chrudim,, 
+4460276,0DS_PETPOL,Petr,,,,Policka,,
+4460277,0DS_ONDPRO,Ondra,,,,Prostejov,,
+4460278,0DS_RADSLA,Radek,,,,Slabce,,
+4460279,0DS_STREJD,Strejda,,,,Jihlava,,
+4460280,0DS_MIR154,Mira,,,,154,,
+4460281,0DS_PETPAZ,Petr,,,,Pazderna,,
+4460282,0DS_KEVIN,Kevin,,,,Cheb,,
+4460283,0DS_MICHBR,Michal,,,,Brezany,,
+4460284,0DS_PAVKYT,Pavel,,,,Kytlice,,
+4460285,0DS_CARLOS,Karel,,,,Modrany,,
+4460286,0DS_DANHK,Dan,,,,Hradec,,
+4460287,0DS_VASZAT,Vasek,,,,Zatec,,
+4460288,0DS_ADAM,Adam,,,,Stepankovice,,
+4460289,0DS_KHEJML,Kamil,,,,Olsovec,,
+4460290,0DS_MATTY,Matty,,,,Kolin,,
+4460291,0DS_JARKRC,Jarda,,,,Krc,, 
+4460292,0DS_LIBSTO,Libor,,,,Stodulky,,
+4460293,0DS_PETJIH,Petr,,,,Jihlava,, 
+4460294,0DS_VIKY,Viky,,,,Cermna nad Orlici,, 
+4460295,0DS_MRAK,Mrak,,,,Plzenec,,
+4460296,0DS_STAOKR,Standa,,,,Okrouhlo,,
+4460297,0DS_FILIPS,Filip,,,,Stodulky,,
+4460298,0DS_ONDRAC,Ondra,,,,Cucice,, 
+4460299,0DS_HUGO.Hugo,,,,Novy Jicin,, 
+4460300,0DS_IGOR,Igor,,,,Bohnice,,
+4460301,0DS_MIRNOV,Mirek,,,,Novodvorska,,
+4460302,0DS_MULISA,Mulisak,,,,Hradek,, 
+4460303,0DS_ALEJIH,Ales,,,,Jihlava,,
+4460304,0DS_ZDEDOU,Zdenek,,,,Doubravka,,
+4460305,0DS_PAVKOZ,Pavel,,,,Kozlany,, 
+4460306,0DS_MIRCER,Mirek,,,,Cerekvice,, 
+4460307,0DS_TONDA,Tonda,,,,Sokolov,,
+4460308,0DS_VENDA,Venda,,,,Ovesky,,
+4460309,0DS_SIGI,Sigi,,,,Klobouky,,
+4460310,0DS_PEPAAU,PEPA,,,,Australie,,
+4460311,0DS_SLAVIE,Lada,,,,Slavie,,
+4460312,0DS_MARKRN,Martin,,,,505 Krnov,,
+4460313,0DS_DAVSTR,David,,,,Stribro,,
+4460314,0DS_KAROSA,Michael,,,,Karosa,,
+4460315,0DS_BRANO,Brano,,,,Krib,,
+4460316,0DS_LUBO57,Lubos57,,,,,,
+4460317,0DS_LUKHOL,Lukas,,,,Holice,,
+4460318,0DS_CABAN,Caban,,,,,,
+4460319,0DS_MORIS,Maurice,,,,(Moris)-Brno,,
+4460320,0DS_MONTY,Monty,,,,Brno,,
+4460321,0DS_ZDEJEV,Zdenek,,,,Jevicko,,
+4460322,0DS_SYDNEY,Strasak,,,,Sydney,,
+4460323,0DS_ROMAN,Roman,,,,Chlumec,,
+4460324,0DS_TOMHOL,Tomas,,,,Holesovice,,
+4460325,0DS_PETBOH,Petr,,,,Bohumilec,,
+4460326,0DS_ONDRAP,Ondra,,,,Prevysov,, 
+4460327,0DS_MYSAK,Mysak,,,,Chlumec,,
+4460328,0DS_ALESLU,Ales,,,,Lucice,,
+4460329,0DS_HUGJEV,Hugocz,,,,Jevicko,, 
+4460330,0DS_JURBEN,Jura,,,,Benesov,, 
+4460331,0DS_BLANIK,Petr,,,,Blanik,,
+4460332,0DS_AGATKA,Agata,,,,Planice,,
+4460333,0DS_MATYS,Matys,,,,Klabava,,
+4460334,0DS_BOBDYS,Bob,,,,Dysina,,
+4460335,0DS_MAROST,Marek,,,,Ostrava,,
+4460336,0DS_VARAN,Varan,,,,Brno,,
+4460337,0DS_MIREKT,Mirek,,,,Tisnov,,
+4460338,0DS_HONHRA,Honza,,,,Hradec,,
+4460339,0DS_NETWOR,Networ,,,,Jihlava,,
+4460340,0DS_PAVJIR,Pavel,,,,Jirkov,,
+4460341,0DS_DIDA,Dida,,,,Jihlava,,
+4460342,0DS_DUSMEL,Dusan,,,,Melnik,, 
+4460343,0DS_JINHK2,Jindra,,,,Hradec 2,,
+4460344,0DS_ERIKSL,Erik,,,,Slatina,,
+4460345,0DS_JIRERV,Jirka,,,,Ervenice,,
+4460346,0DS_PETCHO,Petr,,,,Chomutov,,
+4460347,0DS_JINCHO,Jindra,,,,Chomutov,,
+4460348,0DS_IVANH,Ivan,,,,Hajovna,,
+4460349,0DS_FRANTA,Frantisek,,,,Nerudova,,
+4460350,0DS_KACKA,Kacka,,,,Chlumec,,
+4460351,0DS_LUBLOS,Lubos,,,,Lostice,,
+4460352,0DS_PEPAJE,Pepa,,,,Jehnedi,,
+4460353,0DS_ARGODC,Argo,,,,Decin,,
+4460354,0DS_LUKSPY,Lukas,,,,Spy,,
+4460355,0DS_DALIK,Dalik,,,,Krnov,,
+4460356,0DS_KODLDC,KODL,,,,Decin,,
+4460357,0DS_VODNIK,Vodnik,,,,Rybnik,,
+4460358,0DS_DEDAD,Deda,,,,Dvorce,,
+4460359,0DS_LADA42,Lada,,,,42,,
+4460360,0DS_FRABOR,Franta,,,,Bory,,
+4460361,0DS_TYGR,Tygr,,,,Brno,,
+4460362,0DS_JURAOL,Jura,,,,Olomouc,,
+4460363,0DS_ZDEOND,Zdenek,,,,Ondrejov,,
+4460364,0DS_BOHOUS,Bohous,,,,Zamberk,,
+4460365,0DS_EDAZAT,Eda,,,,Zatec,,
+4460366,0DS_SVAB,Svab,,,,Marianky,,
+4460367,0DS_LADBRE,Lada,,,,Brezina,,
+4460368,0DS_KOCIZB,Kocicak,,,,Zborovice,,
+4460369,0DS_PEPEK,Pepek,,,,Tir,,
+4460370,0DS_CANDAT,Candat,,,,Decin,, 
+4460371,0DS_FOLPY,Folpy,,,,Usti,, 
+4460372,0DS_KRYST7,Krystof,,,,7,,
+4460373,0DS_ELIZ,Eliz,,,,Cheb,, 
+4460374,0DS_SPICAK,Spicak,,,,Jezdovice,,
+4460375,0DS_VASKRU,Vasek,,,,Krumlov,,
+4460376,0DS_ONDRYS,Ondrys,,,,Usti,, 
+4460377,0DS_JIRI21,Jirka,,,,21,,
+4460378,0DS_BIDLO,Bidlo,,,,Zatec,,
+4460379,0DS_QUASUM,Quattro,,,,Sumperk,,
+4460380,0DS_LUKYZL,Luky,,,,Zlatniky,, 
+4460381,0DS_OLDA,Olda,,,,Chlumec,,
+4460382,0DS_PEPAMO,Pepa,,,,Most,, 
+4460383,0DS_LUKJIH,Lukas,,,,Jihlava,,
+4460384,0DS_BOB,Bob,,,,Zerotin,,
+4460385,0DS_RADKA,Radka,,,,Chlumec,,
+4460386,0DS_JENDA,Jenda,,,,Chlumec,,
+4460387,0DS_PAVPOL,Pavel,,,,Polabiny,,
+4460388,0DS_TOMBUD,Tomas,,,,Budejovice,, 
+4460389,0DS_MARLIB,Martin,,,,Liberec,,
+4460390,0DS_WENCL,Wencl,,,,von Budweis,,
+4460391,0DS_MARLIS,Martin,,,,Listany,, 
+4460392,0DS_DRAGON,Dragon,,,,Praha,,
+4460393,0DS_ALAN,Alan,,,,Poruba,,
+4460394,0DS_MYSRUM,Mysak,,,,Rumburk,, 
+4460395,0DS_PAVPRH,Pavel,,,,Praha,,
+4460396,0DS_BERAN,Beran,,,,,,
+4460397,0DS_JARO,Jaro,,,,Skvrnany,, 
+4460398,0DS_STAMAR,Standa,,,,Martinov,, 
+4460399,0DS_DOKTOR,Doktor,,,,Horni Jiretin,,
+4460400,0DS_VENLIT,Venda,,,,Litvinov,,
+4460401,0DS_SKAUT,Skaut,,,,Unicov,, 
+4460402,0DS_ZDEPIS,Zdenek,,,,Pisek,,
+4460403,0DS_KUBAHJ,Kuba,,,,Horni Jiretin,,
+4460404,0DS_TUNDRA,Tundra,,Usti nad Labem,,
+4460405,0DS_KUBAOV,Einstein,,,,Poruba,,
+4460406,0DS_LUDSUM,Ludek,,,,Sumperk,, 
+4460407,0DS_ANDY,Andy,,,,Zlin,,
+4460408,0DS_LUBOZL,Lubos,,,,Zlin,, 
+4460409,0DS_ANDYML,Andy,,,,Melnik,,
+
+2300001,OK1AVX,Jirka,,Podborany,,Czech Republic
+2300002,OK1PPL,Zdenek,,Liberec,,Czech Republic
+2300003,OK1BYR,OK1BYR,,Beneiov,,Czech Republic
+2300004,OK1JM,Jiri,,Drevcice,,Czech Republic
+2300005,OK9VEH,Oskar,,Most,,Czech Republic
+2300006,OK1STV,Vladan,,Stara Ves nad Ondrejnici,,Czech Republic
+2300007,OK2GPS,Jarek,,Hustopece,Central Bohemian Region,Czech Republic
+2300008,OK9SLI,Jakub,,Praha,,Czech Republic
+2300009,OK1ZJV,Jirka,,Hůry,South Bohemian Region,Czech Republic
+2300010,OK1ME,Honza,,Mohurice,,Czech Republic
+2300011,OK1CSM,Michal,,Ostrov,,Czech Republic
+2300012,OK1SAM,Bohous,,Sokolov,,Czech Republic
+2300013,OK9DAT,David OK9DAT,,CZ,,Czech Republic
+2300014,OK1ZVP,Petr,,Karlovy Vary,,Czech Republic
+2300015,OK1MJG,Milanm,,Kolinec,,Czech Republic
+2300016,OK2DDS,David,,Brno,,Czech Republic
+2300017,OK2ZCB,Martin,,Sumperk,,Czech Republic
+2300018,OK2AE,Marty,,Brno,,Czech Republic
+2300019,OK1AI,Venda,,Litvinov,,Czech Republic
+2300020,OK1BKO,Radek,,Koln,,Czech Republic
+2300021,OK1FMH,Frantisek,,Humpolec,,Czech Republic
+2300022,OK1ZXS,Martin,,Prague,,Czech Republic
+2300023,OK7JP,Josef,,,,Czech Republic
+2300024,OK2IKV,Pavel,,Pribram,,Czech Republic
+2300025,OK8RA,Jil,,,,Czech Republic
+2300026,OK1VAO,Jan,,Praha,,Czech Republic
+2300027,OK2KFL,Dominik,,Brno,,Czech Republic
+2300028,OK5LR,Vladislav,,Smiice,Hradec Kralove Region,Czech Republic
+2300029,OK7FW,Fanda,,Lesov,,Czech Republic
+2300030,OK1DAW,David T,,Ceske Budejovice,,Czech Republic
+2300031,OK2TL,Leos,,Blansko,,Czech Republic
+2300032,OK2JBK,Sccs,,Blansko,,Czech Republic
+2300033,OK1OCB,Radioklub OK1OCB,,Hury,,Czech Republic
+2300034,OL1ADZ,Josef,,Soboslav,,Czech Republic
+2300035,OK1IJP,Hopla,,Praha,,Czech Republic
+2300036,OK1MB,Milan,,Srubec,,Czech Republic
+2300037,OK1VVE,Vitek,,Ricany,Central Bohemian Region,Czech Republic
+2300038,OK1UUK,Eda,,IERNILOV,,Czech Republic
+2300039,OK1WET,Petr,,Skutec,,Czech Republic
+2300040,OK1MMH,Mila,,Cernosice,,Czech Republic
+2300041,OK2APY,OK2APY,,Brno,,Czech Republic
+2300042,OK1APY,OK1APY,,Brno,,Czech Republic
+2300043,OK2VWM,Milan,,Blatec,,Czech Republic
+2300044,OK9PKS,PAVEL,,,,Czech Republic
+2300045,OK1VRW,Ludek,,Letohrad,,Czech Republic
+2300046,OK4SEA,Robert Sea,,Brno,,Czech Republic
+2300047,OK1IDL,Dan,,Roztoky,,Czech Republic
+2300048,OK1GJ,Honza,,Ln,Usti nad Labem Region,Czech Republic
+2300049,OK2HMR,Martin,,Velka Polom,,Czech Republic
+2300050,OK9FAB,Jirka,,Zln,,Czech Republic
+2300051,OK1MDD,Milan,,Horni Stropnice,,Czech Republic
+2300052,OK1JDZ,Standa,,Bechyno,,Czech Republic
+2300053,OK2WTW,Pavel,,Olomouc,,Czech Republic
+2300054,OK2TLJ,Jan,,Trutnov,,Czech Republic
+2300055,OK1JHT,Robert Hudlice,,Hudlice,,Czech Republic
+2300056,OK5XL,Jan,,Ceske Budejovice,,Czech Republic
+2300057,OK2CTI,Honza,,Zatcany,,Czech Republic
+2300058,OK2IWR,Radek,,Uherske Hradiste,,Czech Republic
+2300059,OK1UZT,Vitezslav,,Praha,Prague,Czech Republic
+2300060,OK1IVU,Vlada,,Plzen,,Czech Republic
+2300061,OK2DC,Alsten,,Horice,,Czech Republic
+2300062,OK4SP,Petr,,Brno,,Czech Republic
+2300063,OK1XOM,Martin,,Nemojov,,Czech Republic
+2300064,OK2STV,Peter,,Frenstat,,Czech Republic
+2300065,OK2PDH,Karel,,Otrokovice,,Czech Republic
+2300066,OK6CPU,Petr,,Sokolnice,,Czech Republic
+2300067,OK8QC,Jiri - George,,Paseky u Prosece,,Czech Republic
+2300068,OK1DWJ,Ales,,Near Milevsko,,Czech Republic
+2300069,OK3TV,Tomas,,,,Czech Republic
+2300070,OK1CEP,SILVA,,LIBUSIN,,Czech Republic
+2300071,OK2URE,Bohuslav,,KRNOV,,Czech Republic
+2300072,OK1JVR,Vrcinak,,Iesk Brod,,Czech Republic
+2300073,OK9MAD,Maddog,,LOUNY,,Czech Republic
+2300074,OK2UUJ,Leo,,Olomouc,,Czech Republic
+2300075,OK1TEA,Michal,,Prague,,Czech Republic
+2300076,OK3MT,Mark,,Lipnk nad Beivou,,Czech Republic
+2300077,OK2ZF,Zdenek Fajkus,,Rychvald,Moravian-Silesian Region,Czech Republic
+2300078,OK9MOV,Michal,,Praha,,Czech Republic
+2300079,OK1DKP,Daniel Kucik,,Prague,,Czech Republic
+2300080,OK1NSA,Zdenek Hostoue,,Hostoue u Prahy,,Czech Republic
+2300081,OK1YC,Martin,,Zdiby,,Czech Republic
+2300082,OK1CJT,Josef,,Hrdojovice,,Czech Republic
+2300083,OK2LUD,Ludek,,Bohunovice,,Czech Republic
+2300084,OK1CBM,Michal,,Radvanice,,Czech Republic
+2300085,OK1JSU,Honza,,Usti nad Orlici,,Czech Republic
+2300086,OK1JAH,Jiri,,Hnevkovice,,Czech Republic
+2300087,OK2JGD,Honza,,Sumperk,,Czech Republic
+2300088,OK5VT,Zdenek,,Praha,Prague,Czech Republic
+2300089,OK2ZPI,Petr,,,,Czech Republic
+2300090,OK2STP,Jarda,,,,Czech Republic
+2300091,OK1DV,Jan,,,,Czech Republic
+2300092,OK2TIS,Miloslav,,,,Czech Republic
+2300093,OK2JAJ,Jiri,,Brno,,Czech Republic
+2300094,OK1TBF,David,,Sudislav nad Orlici,,Czech Republic
+2300095,OK1JMB,Miroslav,,Borovany,,Czech Republic
+2300096,OK1SKZ,Karel,,Decin,,Czech Republic
+2300097,OK2VLK,Daniel,,Valasske Mezirici,,Czech Republic
+2300098,OK2GD,Tomas,,Pelhrimov,,Czech Republic
+2300099,OK3MW,Jindra,,Hradec Kralove,Hradec Kralove Region,Czech Republic
+2300100,OK1RJ,Josef,,Kadan,Usti nad Labem Region,Czech Republic
+2300101,OK1IFT,Martin,,Rosice,,Czech Republic
+2300102,OK6IK,Radek,,Jindrichuv Hradec,South Bohemian Region,Czech Republic
+2300103,OK1IHJ,Karel,,Jaromerice,,Czech Republic
+2300104,OK1JOL,Jindrich,,,,Czech Republic
+2300105,OK1VRN,August,,České Budějovice,,Czech Republic
+2300106,OK1GAS,Jozef,,Sokolov,,Czech Republic
+2300107,OK8SAX,Dieter,,Plesna,,Czech Republic
+2300108,OK1DZS,Stanislav,,Prachovice,,Czech Republic
+2300109,OK5RT,Pavel,,Plzen,,Czech Republic
+2300110,OK5TW,Ladislav,,Ostrov,Hradec Kralove Region,Czech Republic
+2300111,OK9SMS,Tomáš,,Lenešice,Hradec Kralove Region,Czech Republic
+2300112,OK9KAM,Vladimir,,Chomutov,Hradec Kralove Region,Czech Republic
+2300113,OK1AR,Zdenek,,Podborany,Hradec Kralove Region,Czech Republic
+2300114,OK1TNP,Petr,,Kladno,Hradec Kralove Region,Czech Republic
+2300115,OK2PDM,Vladimir,,Jihlava,Hradec Kralove Region,Czech Republic
+2300116,OK1CKK,Jiri,,Kladno,Central Bohemian Region,Czech Republic
+2300117,OK1TLT,Tomas,,Prague,Hradec Kralove Region,Czech Republic
+2300118,OK1FMS,Martin,,,Hradec Kralove Region,Czech Republic
+2300119,OK1IKN,Pokorny,,Ceske Budejovice,,Czech Republic
+2300120,OK1DKB,Rudolf,,,,Czech Republic
+2300121,OK8CQB,Christian,,Znojmo,South Moravian Region,Czech Republic
+2300122,OK1IAJ,Josef,,Písek,South Bohemian Region,Czech Republic
+2300123,OK1MKN,Michal,,None,Liberec Region,Czech Republic
+2300124,OK4GP,Vitezslav,,Pelhřimov,Vysocina Region,Czech Republic
+2300125,OK1OLA,Martin,,Prague,Prague,Czech Republic
+2300126,OK1FFH,Mojmir,,,,Czech Republic
+2300127,OK2IKT,Radek,,Lichnov,,Czech Republic
+2300128,OK1NIL,Vaclav,,Praha,Prague,Czech Republic
+2300129,OK2RS,Rudolf,,Krnov,Moravian-Silesian Region,Czech Republic
+2300130,OK5AMA,Arnold,,Roudnice nad Labem,,Czech Republic
+2300131,OK1MAE,Zdenek,,Vinařice,Usti nad Labem Region,Czech Republic
+2300132,OK5KL,Lubos,,Dobrany,Pilsen Region,Czech Republic
+2300133,OK4FX,Miroslav,,Benesov u Semil,Liberec Region,Czech Republic
+2300134,OK1UKC,Dalibor,,Kadan,Usti nad Labem Region,Czech Republic
+2300135,OK2UXO,Vladimír,,,South Moravian Region,Czech Republic
+2300136,OK2UIQ,Petr,,Krnov,Moravian-Silesian Region,Czech Republic
+2300137,OK1HMA,Antonin,,Usti Nad Labem,Usti nad Labem Region,Czech Republic
+2300138,OK2PVH,Miroslav,,Mohelnice,Olomouc Region,Czech Republic
+2300139,OK1CRS,Pavel,,Prestice,,Czech Republic
+2300140,OK1FVN,Jakub,,KARLOVY VARY,,Czech Republic
+2300141,OK1DTM,Josef,,Mlada Boleslav,Central Bohemian Region,Czech Republic
+2300142,OK1TVK,Jindřich,,Ústí nad Labem,Usti nad Labem Region,Czech Republic
+2300143,OK1VYQ,Frantisek,,Nejdek,Karlovy Vary Region,Czech Republic
+2300144,OK1JOP,Roman,,Ústí nad Orlicí,,Czech Republic
+2300145,OK2PUD,Michal,,,Olomouc Region,Czech Republic
+2300146,OK2PLE,Libor,,Karolinka,Zlin Region,Czech Republic
+2300147,OK1JJJ,Jaroslav,,Borovany,South Bohemian Region,Czech Republic
+2300148,OK2OHA,Club,,Olomouc,Olomouc Region,Czech Republic
+2300149,OK1LAZ,Roman,,Františkovy Lázně,,Czech Republic
+2300150,OK1MZ,Milan,,Nová Paka,,Czech Republic
+2300151,OK1FXA,Karel,,Nachod,Hradec Kralove Region,Czech Republic
+2300152,OK2FP,Frantisek,,Mnichovo Hradiste,Central Bohemian Region,Czech Republic
+2300153,OK1KBT,Karel,,Prague,Hradec Kralove Region,Czech Republic
+2300154,OK1YI,Jan,,Plzen,Pilsen Region,Czech Republic
+2300155,OK1MGJ,Petr,,Jirkov,,Czech Republic
+2300156,OK1TKF,Frantisek,,Tachov,Pilsen Region,Czech Republic
+2300157,OK2ZNJ,Jiří,,Znojmo,South Moravian Region,Czech Republic
+2300158,OK1IN,Petr,,Bratronice,Central Bohemian Region,Czech Republic
+2300159,OK1VLG,Lubo,,Jaromer,Hradec Kralove Region,Czech Republic
+2300160,OK1JGB,Jindřich,,Litomyšl,Pardubice Region,Czech Republic
+2300161,OK9JHA,Josef,,Svetla,South Moravian Region,Czech Republic
+2300162,OK1SKL,Miroslav,,Pardubice,Pardubice Region,Czech Republic
+2300163,OK9MET,František,,Rudice,Moravian-Silesian Region,Czech Republic
+2300164,OK1FE,Jonas,,Tabor,South Bohemian Region,Czech Republic
+2300165,OK1IGR,Igor,,Teplice,Usti nad Labem Region,Czech Republic
+2300166,OK2LB,Vladimír,,Blansko,South Moravian Region,Czech Republic
+2300167,OK2MB,Milan,,Blansko,South Moravian Region,Czech Republic
+2300168,OK2LTM,Robert,,Hustopeče,South Moravian Region,Czech Republic
+2300169,OK2DJL,David,,Luhacovice,Zlin Region,Czech Republic
+2300170,OK1BCD,Ales,,Kladno,,Czech Republic
+2300171,OK4RB,Radek,,Brno,South Moravian Region,Czech Republic
+2300172,OK1JKU,Pavel,,Kyselka,Karlovy Vary Region,Czech Republic
+2300173,OK2WZN,Rostislav,,Hosteradice,South Moravian Region,Czech Republic
+2300174,OK2AB,Rostislav,,Bystrice pod Hostynem,Zlin Region,Czech Republic
+2300175,OK1DEK,Jaromir,,Sedlcany,Central Bohemian Region,Czech Republic
+2300176,OK1KNJ,Zdenek,,Praha,Prague,Czech Republic
+2300177,OK2VT,Tomas,,Jindrichuv Hradec,South Bohemian Region,Czech Republic
+2300178,OK2TE,Petr,,Oldřichov,Olomouc Region,Czech Republic
+2300179,OK1FPV,Jiri,,Turnov,Liberec Region,Czech Republic
+2300180,OK1MHM,Ing  Mojmír,,Pardubice,Pardubice Region,Czech Republic
+2300181,OK1DUV,Jiří,,,Prague,Czech Republic
+2300182,OK3MN,Milan,,Rajec Jestrebi,South Moravian Region,Czech Republic
+2300183,OK1JB,Josef,,Sokolov,Karlovy Vary Region,Czech Republic
+2300184,OK5MD,Martin,,Prague,Prague,Czech Republic
+2300185,OK3MAT,Martin,,Chrudim,Pardubice Region,Czech Republic
+2300186,OK1MBA,Michal,,Most,Usti nad Labem Region,Czech Republic
+2300187,OK1PRB,Petr,,Kunratice,Prague,Czech Republic
+2300188,OK2STM,Milan,,Bosovice,South Moravian Region,Czech Republic
+2300189,OK1ZJH,Jiri,,Hubenov Nr Pilsen,Pilsen Region,Czech Republic
+2300190,OK1JPS,Jiří,,Děčín - Maxičky,Usti nad Labem Region,Czech Republic
+2300191,OK7PJ,Zdenek,,Strakonice,South Bohemian Region,Czech Republic
+2300192,OK1CCK,Zdenek,,Borek,South Bohemian Region,Czech Republic
+2300193,OK1VMS,Michal,,Prague,Prague,Czech Republic
+2300194,OK1LUK,Lukas,,Praha,Central Bohemian Region,Czech Republic
+2300195,OK2ZDS,Zdenek,,Brno,South Moravian Region,Czech Republic
+2300196,OK1XAB,Vladimir,,,Hradec Kralove Region,Czech Republic
+2300197,OK2TK,Tomas,,Olomouc,Olomouc Region,Czech Republic
+2300198,OK2MFD,Frantisek,,Kromeriz,Zlin Region,Czech Republic
+2300199,OK8DMR,Ondrej,,Praha,Prague,Czech Republic
+2300200,OK1DLA,Ludek,,Hrimezdice,Central Bohemian Region,Czech Republic
+2300201,OK1PNK,Jan,,Tlucna,Pilsen Region,Czech Republic
+2300202,OK2VUX,Lubos,,Brno,South Moravian Region,Czech Republic
+2300203,OK3SN,Vojtech,,Brno,South Moravian Region,Czech Republic
+2300204,OK1KB,Jan,,Štěnovice,Pilsen Region,Czech Republic
+2300205,OK1UR,Zbynek,,Rokycany,Pilsen Region,Czech Republic
+2300206,OK1DPP,Daniel,,Prague,Prague,Czech Republic
+2300207,OK1JUP,Michal,,Jílové U Prahy ,Central Bohemian Region,Czech Republic
+2300208,OK2AD,Jana,,Jablonec Nad Nisou,Liberec Region,Czech Republic
+2300209,OK1XGP,Jan,,Karlovy Vary,Karlovy Vary Region,Czech Republic
+2300210,OK2WCI,David,,Prostejov,Olomouc Region,Czech Republic
+2300211,OK2IDB,Martin,,Kurim,South Moravian Region,Czech Republic
+2300212,OK2UBW,Pavel,,Olomouc,Olomouc Region,Czech Republic
+2300213,OK2EAM,Michal,,Tasov,Vysocina Region,Czech Republic
+2300214,OK7MH,Martin,,Kostelec Nad Labem,Central Bohemian Region,Czech Republic
+2300215,OK7PZ,Petr,,,Prague,Czech Republic
+2300216,OK1TIG,Vít,,Pardubice,Pardubice Region,Czech Republic
+2300217,OK3AR,Richard,,Pilsen,Pilsen Region,Czech Republic
+2300218,OK5TI,Miroslav,,Tisovec,Pardubice Region,Czech Republic
+2300219,OK1TRI,Míloslav,,None,Pilsen Region,Czech Republic
+2300220,OK5AM,Ludek,,Prague,Prague,Czech Republic
+2300221,OK2RDY,Club,,Prague,Prague,Czech Republic
+2300222,OK5TZ,Tomáš,,Hodonín,South Moravian Region,Czech Republic
+2300223,OK2UHH,Vladimir,,Uhersky Brod,Zlin Region,Czech Republic
+2300224,OK1VOV,Vasek,,Prague,Prague,Czech Republic
+2300225,OK2ITO,Tomas,,Beroun,South Bohemian Region,Czech Republic
+2300226,OK1URT,Tomas,,Neratovice,Central Bohemian Region,Czech Republic
+2300227,OK1BVK,Renda,, ,Central Bohemian Region,Czech Republic
+2300228,OK4ME,Ondrej,,Chlebicov,Moravian-Silesian Region,Czech Republic
+2300229,OK2SAL,Petr,,Velká Bystřice,Olomouc Region,Czech Republic
+2300230,OK1ART,Miroslav,,Rakovnik,Central Bohemian Region,Czech Republic
+2300231,OK2JMO,Jana,,Ostrava,Moravian-Silesian Region,Czech Republic
+2300232,OK1XTG,Rene,,Strakonice,South Bohemian Region,Czech Republic
+2300233,OK1HPE,Jan,,Nove Straseci,Central Bohemian Region,Czech Republic
+2300234,OK1WNG,Martin,,Sestajovice,Central Bohemian Region,Czech Republic
+2300235,OK1VRA,Vladimir,,Prague,Prague,Czech Republic
+2300236,OK1STS,Petr,,Prague,Prague,Czech Republic
+2300237,OK1ICZ,Jiri,,Písek,South Bohemian Region,Czech Republic
+2300238,OK1JBK,Pavel,,Nova Paka,Hradec Kralove Region,Czech Republic
+2300239,OK1JDK,Karel,,Chocen,Pardubice Region,Czech Republic
+2300240,OK3MC,Martin,,Beroun,Pilsen Region,Czech Republic
+2300241,OK3MIL,Zdeněk,,Česká Lípa,Liberec Region,Czech Republic
+2300242,OK1SIM,Michal,,Stod,Pilsen Region,Czech Republic
+2300243,OK2ADA,Magdalena,,Pilsen,Pilsen Region,Czech Republic
+2300244,OK9BMX,Miroslav,,Prague,Prague,Czech Republic
+2300245,OK3QQ,Pavel,,Ostrava,Moravian-Silesian Region,Czech Republic
+2300246,OK1JF,Jan,,Jablonec Nad Nisou,Liberec Region,Czech Republic
+2300247,OK9LVK,Leontýna,,Kosoř,Central Bohemian Region,Czech Republic
+2300248,OK1MCH,Michal,,Roztoky U Prahy,Central Bohemian Region,Czech Republic
+2300249,OK1SK,Karel,,Rumburk,Usti nad Labem Region,Czech Republic
+2300250,OK8PMX,Milan,,Prague,Prague,Czech Republic
+2300251,OK8PB,Peter,,Prague,Prague,Czech Republic
+2300252,OK1XFR,Renata,,Krásná Lípa,Usti nad Labem Region,Czech Republic
+2300253,OK2PBL,Jiri,,Unicov,Olomouc Region,Czech Republic
+2300254,OK2VJZ,Zdenek,,Bilovec,Moravian-Silesian Region,Czech Republic
+2300255,OK6MS,Martin,,Brtnice,Vysocina Region,Czech Republic
+2300256,OK1DX,Pavel,,Kasperske Hory,Pilsen Region,Czech Republic
+2300257,OK1MG,Martin,,Jevicko,Pardubice Region,Czech Republic
+2300258,OK1GOM,Jaromír,,Praha,Prague,Czech Republic
+2300259,OK3KPI,Jan,,,,Czech Republic
+2300260,OK1TGM,Tomas,,Cesky Brod,Central Bohemian Region,Czech Republic
+2300261,OK1CMA,Martin,,Chrudim,Pardubice Region,Czech Republic
+2300262,OK1TI,Karel,,Černolice,Central Bohemian Region,Czech Republic
+2300263,OK1BR,Richard,,Chrastany u Rakovnika,Central Bohemian Region,Czech Republic
+2300264,OK2KPD,Radioklub,,KRNOV,,Czech Republic
+2300265,OK8HAM,Roberto,,Zlin,South Moravian Region,Czech Republic
+2300266,OK1HA,Richard,,Chrastany U Rakovnika,Central Bohemian Region,Czech Republic
+2300267,OK1PNO,Petr,,Jihlava,Vysocina Region,Czech Republic
+2300268,OK2RKR,Radioklub Rájec,,Rajec Jestrebi,,Czech Republic
+2300269,OK1GRM,Petr,,Prague,Prague,Czech Republic
+2300271,OK4FUN,Veronika,,Rudna,Prague,Czech Republic
+2300272,OK2DAY,Michal,,Beroun,Central Bohemian Region,Czech Republic
+2300273,OK1IG,Petr,,Ceska Lipa,Liberec Region,Czech Republic
+2300274,OK1UJU,Zdenek,,Prague,Prague,Czech Republic
+2300275,OK2DV,Dalibor,,Hranice,Olomouc Region,Czech Republic
+2300276,OK1FQK,Libor,,Velim,Central Bohemian Region,Czech Republic
+2300277,OK9HAP,Martin,,Praha,Prague,Czech Republic
+2300278,OK2MRY,Radek,,Ostrava,Moravian-Silesian Region,Czech Republic
+2300279,OK9DOB,Ján,,Brno,South Moravian Region,Czech Republic
+2300280,OK2PAT,Otto,,Stepankovice,Moravian-Silesian Region,Czech Republic
+2300281,OK8DJ,Dragan,,Babice U Rosic,South Moravian Region,Czech Republic
+2300282,OK1UM,Martin,,Stochov,Central Bohemian Region,Czech Republic
+2300283,OK2DDT,Michal ,,Hradec nad Moravicí ,Moravian-Silesian Region,Czech Republic
+2300284,OK2MG,Miroslav,,Praskolesy,Central Bohemian Region,Czech Republic
+2300285,OK1ICH,Richard,,Prague,Prague,Czech Republic
+2300286,OK2MD,Miroslav,,Prstice,South Moravian Region,Czech Republic
+2300287,OK1TY,Tomas,,Prague,Prague,Czech Republic
+2300288,OK2HF,Petr,,Blansko,South Moravian Region,Czech Republic
+2300289,OK2WO,Josef,,Jedovnice,South Bohemian Region,Czech Republic
+2300291,OK1CZE,Jan,,Prague,Prague,Czech Republic
+2300292,OK1SUX,Michael,,Kladno,Central Bohemian Region,Czech Republic
+2300293,OK9MZV,Martin,,Vacenovice,South Moravian Region,Czech Republic
+2300294,OK1WE,David,,Prague,Prague,Czech Republic
+2300295,OK9LHR,Luboš,,Prague,Prague,Czech Republic
+2300296,OK2BUH,Miroslav,,,Olomouc Region,Czech Republic
+2300297,OK1RE,Lukáš,,Nimerice,Central Bohemian Region,Czech Republic
+2300298,OK2URW,Jiri,,,Olomouc Region,Czech Republic
+2300299,OK2TOM,Tomas,,Jedovnice,South Moravian Region,Czech Republic
+2300300,OK2HAM,Stanislav,,Zlin,Zlin Region,Czech Republic
+2300301,OK8OM,Branislav,,Skalka Nad Vahom,Prague,Czech Republic
+2300302,OK2JMI,Jan,,KOBERICE,Moravian-Silesian Region,Czech Republic
+2300303,OK9APC,Oldrich,,Olomouc,Olomouc Region,Czech Republic
+2300304,OK1TRU,Jakub,,Prague,Prague,Czech Republic
+2300305,OK5OLI,Oliver,,Brno,South Moravian Region,Czech Republic
+2300306,OK1KKY,Club,,Chlumec Nad Cidlinou,Hradec Kralove Region,Czech Republic
+2300307,OK9TDI,Zdenek,,Pouzdřany,South Moravian Region,Czech Republic
+2300308,OK2PDL,Igor,,None,South Moravian Region,Czech Republic
+2300309,OK2IBA,Ivo,,Brezina,South Moravian Region,Czech Republic
+2300310,OK1TVA,Tomáš,,Praha,Prague,Czech Republic
+2300311,OK1HRP,Pavel,,Kladno,Central Bohemian Region,Czech Republic
+2300312,OK1DO,Jiri,,Horni Slavkov,Karlovy Vary Region,Czech Republic
+2300313,OK2PUB,Michal,,Olomouc,Olomouc Region,Czech Republic
+2300314,OK2VJM,Radomír,,Opava,Moravian-Silesian Region,Czech Republic
+2300315,OK1TK,Tomas,,Praha,Prague,Czech Republic
+2300316,OK2XGQ,Tomas,,Plumlov,Olomouc Region,Czech Republic
+2300317,OK1TJ,Tomas,,Prague,Prague,Czech Republic
+2300318,OK2RAC,Klub,,Nymburk,Central Bohemian Region,Czech Republic
+2300319,OK1ECH,Lukas,,Prague,Prague,Czech Republic
+2300320,OK9BWB,Vlasta,,Kladno,Central Bohemian Region,Czech Republic
+2300321,OK2BGS,Karel,,Holasovice,Moravian-Silesian Region,Czech Republic
+2300322,OK1MNB,Aleš,,Pěnčín,Olomouc Region,Czech Republic
+2300323,OK1PJZ,Pavel,,Jistebnice,South Bohemian Region,Czech Republic
+2300324,OK2HSS,Valentino,,Hustopece,South Moravian Region,Czech Republic
+2300325,OK1PKR,Petr,,Praha,Prague,Czech Republic
+2300326,OK2MSC,Martin,,Jiřice,Central Bohemian Region,Czech Republic
+2300327,OK1MTH,Tomáš,,Kladno,Central Bohemian Region,Czech Republic
+2300328,OK1UAT,Jiri,,Semily,,Czech Republic
+2300329,OK1KMU,Club,,Staré Sedliště,Pilsen Region,Czech Republic
+2300330,OK1HD,Dusan,,Melnik,Central Bohemian Region,Czech Republic
+2300331,OK9MCZ,Jakub,,Dolní Lutyně,Moravian-Silesian Region,Czech Republic
+2300332,OK2FSK,Peter,,Pazderna,Moravian-Silesian Region,Czech Republic
+2300333,OK1AMT,Pavel,,,Usti nad Labem Region,Czech Republic
+2300334,OK1LI,Ladislav,,Uvaly,Central Bohemian Region,Czech Republic
+2300335,OK1BDR,Kamil,,Zalhostice,Usti nad Labem Region,Czech Republic
+2300336,OK1PLI,Jan,,Pokřikov,Pardubice Region,Czech Republic
+2300337,OK1XPM,Michal,,,Prague,Czech Republic
+2300338,OK1UDV,Karel,,Praha,Prague,Czech Republic
+2300339,OK7JN,Jaroslav,,Lubenec,Usti nad Labem Region,Czech Republic
+2300340,OK2ZNH,Jan,,Znojmo,South Moravian Region,Czech Republic
+2300341,OK1UXH,Vlastislav,,Decin,Usti nad Labem Region,Czech Republic
+2300342,OK2UQE,Ladislav,,Cesky Tesin,Moravian-Silesian Region,Czech Republic
+2300343,OK1GOW,Jan ,,Prague,Prague,Czech Republic
+2300344,OK1HOL,Tomas,,Praha 7,Prague,Czech Republic
+2300345,OK1MXA,Václav,,Humpolec,Vysocina Region,Czech Republic
+2300346,OK1SZK,Jan,,Teplice,Usti nad Labem Region,Czech Republic
+2300347,OK2HB,Hugo,,Novy Jicin,Moravian-Silesian Region,Czech Republic
+2300348,OK1TAZ,Patrik,,Lidice,Central Bohemian Region,Czech Republic
+2300349,OK2TGD,Otmar,,Brno,South Moravian Region,Czech Republic
+2300350,OK2VB,Stanislav,,Brno Dvorskeho,,Czech Republic
+2300351,OK1JES,Jan,,Malá Skála,Liberec Region,Czech Republic
+2300352,OK1IJR,Milan,,Jablonec Nad Nisou,Liberec Region,Czech Republic
+2300353,OK1TDK,Marcel,,Kolín,Central Bohemian Region,Czech Republic
+2300354,OK1JPU,Jiri,,Hrádek U Rokycan,Pilsen Region,Czech Republic
+2300355,OK1ALZ,Allan,,,Prague,Czech Republic
+2300356,OK8NA,Peter,,Prague,Prague,Czech Republic
+2300357,OK7ZKL,Zbyněk,,Prague,Central Bohemian Region,Czech Republic
+2300358,OK4MT,Milos,,Odolena Voda,Central Bohemian Region,Czech Republic
+2300359,OK1CTU,Jakub,,,Usti nad Labem Region,Czech Republic
+2300360,OK7MJV,Martin,,Vamberk,Hradec Kralove Region,Czech Republic
+2300361,OK2HT,Jan,,Ostrava,Moravian-Silesian Region,Czech Republic
+2300362,OK1TED,Miloslav,,Liberec,Liberec Region,Czech Republic
+2300363,OK1JKD,Jiri,,Dvur Kralove Nad Labem,Hradec Kralove Region,Czech Republic
+2300364,OK2JTD,Miroslav,,Boleradice,Moravian-Silesian Region,Czech Republic
+2300365,OK1CBR,Roman,,Chlumec Nad Cidlinou,Hradec Kralove Region,Czech Republic
+2300366,OK1VIK,Viktor,,Prague,Prague,Czech Republic
+2300367,OK7ZV,Zdenek,,Ostopovice,South Moravian Region,Czech Republic
+2300368,OK2SCR,Adam,,Štěpánkovice,Moravian-Silesian Region,Czech Republic
+2300369,OK9TLB,Tomas,,Liberec,Liberec Region,Czech Republic
+2300370,OK8BCY,Bastien,,,Prague,Czech Republic
+2300371,OK2BLU,Kamil,,Tyniste Nad Orlici,Hradec Kralove Region,Czech Republic
+2300372,OK1TZA,Zdenek,,Jevicko,Pardubice Region,Czech Republic
+2300373,OK2TEX,Petr,,Roznov pod Radhostem,Zlin Region,Czech Republic
+2300374,OK1PBU,Petr,,Ceske Budejovice,South Bohemian Region,Czech Republic
+2300376,OK2ELA,Ludek,,Troubky,Olomouc Region,Czech Republic
+2300377,OK1GHZ,Michal,,Blansko,South Moravian Region,Czech Republic
+2300378,OK7MS,Martin,,Brno,South Moravian Region,Czech Republic
+2300379,OK8OY,Samuel,,Frýdek Místek,Liberec Region,Czech Republic
+2300380,OK4PZ,Petr,,České Budějovice,South Bohemian Region,Czech Republic
+2300381,OK1CAF,Viktor,,,Prague,Czech Republic
+2300382,OK1NZJ,Zdenek,,,Hradec Kralove Region,Czech Republic
+2300383,OK2JMC,Jan,,Zábřeh Na Moravě,Olomouc Region,Czech Republic
+2300384,OK1PEH,Petr,,Habartov,Karlovy Vary Region,Czech Republic
+2300385,OK1TRL,Ondrej,,Liberec,Liberec Region,Czech Republic
+2300386,OK2CXZ,Zdenek,,Jihlava,Vysocina Region,Czech Republic
+2300387,OK1BX,Martin,,Slatinany,Pardubice Region,Czech Republic
+2300388,OK3FM,Frantisek,,Pardubice ,Pardubice Region,Czech Republic
+2300389,OK1FIO,Martin,,Prague,Prague,Czech Republic
+2300390,OK5ASL,Michal,,Stod,Pilsen Region,Czech Republic
+2300391,OK5ZCH,Zdenek,,Prostejov,Olomouc Region,Czech Republic
+2300392,OK1HCO,Jiri,,,Prague,Czech Republic
+2300393,OK1VIG,Vitezslav,,Nevren,Pilsen Region,Czech Republic
+2300394,OK4RS,Radek,,Plzen,Pilsen Region,Czech Republic
+2300395,OK2KQG,Klub,,Brno   Venkov,South Moravian Region,Czech Republic
+2300396,OK1HEV,Pavel,,Ricany,Central Bohemian Region,Czech Republic
+2300397,OK1TBP,Eda,,Zatec,Usti nad Labem Region,Czech Republic
+2300398,OK9USB,Jiri,,Brno,South Moravian Region,Czech Republic
+2300400,OK1DD,Bohumir,,Zamberk,Pardubice Region,Czech Republic
+2300401,OK2AL,Lukasz,,Albrechtice,Moravian-Silesian Region,Czech Republic
+2300402,OK4ST,Radim,,Prague,Prague,Czech Republic
+2300403,OK1CBX,Roman,,None,South Bohemian Region,Czech Republic
+2300404,OK1FIF,Filip,,None,Central Bohemian Region,Czech Republic
+2300405,OK1JCB,Michal,,Ceske Budejovice,South Bohemian Region,Czech Republic
+2300406,OK1BC,Robert,,Ceske Budejovice,South Bohemian Region,Czech Republic
+2300407,OK5TVR,Tomas,,Dolni Vlkys,Pilsen Region,Czech Republic
+2300408,OK1TH,Tomas,,Prague,Prague,Czech Republic
+2300409,OK1FF,Martin,,Usti Nad Labem,Usti nad Labem Region,Czech Republic
+2300410,OK1FPA,Petr,,Velke Brezno,Prague,Czech Republic
+2300411,OK1ELN,Radoslav,,,Liberec Region,Czech Republic
+2300412,OK1JIK,Krystof,,Okrouhla,Liberec Region,Czech Republic
+2300413,OK1XD,Jan,,,Central Bohemian Region,Czech Republic
+2300414,OK7DMO,Jan,,Přeseka Nr Trebon,,Czech Republic
+2300416,OK4DJL,Daniel,,Liberec,Liberec Region,Czech Republic
+2300417,OK1SLM,Libor,,Desna,Liberec Region,Czech Republic
+2300418,OK2PB,Petr,,Brno,South Moravian Region,Czech Republic
+2300419,OK1ATZ,Tomas,,Choltice,Pardubice Region,Czech Republic
+2300420,OK1VGQ,Jan,,Prague,Prague,Czech Republic
+2300421,OK5VAS,Vlastimil,,,Zlin Region,Czech Republic
+2300422,OK1IGO,Igor,,Praha,Prague,Czech Republic
+2300423,OK4IMK,Martin,,Stara Ves,Moravian-Silesian Region,Czech Republic
+2300424,OK2SPZ,Josef,,Napajedla,Zlin Region,Czech Republic
+2300425,OK1MAT,Vaclav,,Zatec,Usti nad Labem Region,Czech Republic
+2300426,OK1BK,Branislav,,Ceska Trebova,Pardubice Region,Czech Republic
+2300427,OK1IBW,Jan,,Chlistov,Central Bohemian Region,Czech Republic
+2300428,OK7DR,Zdenek,,Smichov,Prague,Czech Republic
+2300429,OK4CB,Jakub,,Hrensko,Usti nad Labem Region,Czech Republic
+2300430,OK2CLJ,Lukas,,Jihlava,Vysocina Region,Czech Republic
+2300431,OK1PSV,Petr,,Vcelna,South Bohemian Region,Czech Republic
+2300432,OK1STZ,Martin,,Liberec,Liberec Region,Czech Republic
+2300433,OK1NIP,Ivan,,Kraslice,Karlovy Vary Region,Czech Republic
+2300434,OK5DEJ,David,,Prague,Prague,Czech Republic
+2300435,OK1ZX,Zdenek,,Ondrejov,Central Bohemian Region,Czech Republic
+2300436,OK1TOB,Tobias,,Krabcice,Prague,Czech Republic
+2300437,OK1XRP,Radim,,Vidovice,Central Bohemian Region,Czech Republic
+2300438,OK1LBC,Karel,,Prysk,Liberec Region,Czech Republic
+2300439,OK9NJA,Jakub,,,Prague,Czech Republic
+2300440,OK1GOD,Filip,,Jablonec Nad Nisou,Liberec Region,Czech Republic
+2300441,OK1DWQ,Tomas,,Plzen,Vysocina Region,Czech Republic
+2300442,OK1GZ,Jaroslav,,Loucka,Central Bohemian Region,Czech Republic
+2300443,OK2ZCL,Jaroslav,,Brno,South Moravian Region,Czech Republic
+2300444,OK1DMO,Otakar,,Kresice,Usti nad Labem Region,Czech Republic
+2300445,OK1MVA,Martin,,Jicin,Hradec Kralove Region,Czech Republic
+2300446,OK2USB,Jiri,,Brno,South Bohemian Region,Czech Republic
+2300447,OK3DA,Josef,,Litomerice,Usti nad Labem Region,Czech Republic
+2300448,OK1SEN,Vladimir,,Ceske Budejovice,South Bohemian Region,Czech Republic
+2300449,OK3GZ,Iva,,Loucka,Central Bohemian Region,Czech Republic
+2300450,OK2MV,Marek,,Ostrava   Zabreh,Moravian-Silesian Region,Czech Republic
+2300451,OK7PT,Pavel,,Tabor,South Bohemian Region,Czech Republic
+2300452,OK4ZL,Ladislav,,Usti Nad Labem,Usti nad Labem Region,Czech Republic
+2300453,OK9LUM,Ladislav,,Unger,Moravian-Silesian Region,Czech Republic
+2300454,OK2GLH,Cenda,,None,Moravian-Silesian Region,Czech Republic
+2300455,OK1RED,Ok1Ted,,Liberec,Liberec Region,Czech Republic
+2300456,OK1AXC,Pavel,,Praha,Prague,Czech Republic
+2300457,OK2MIA,Jaromir,,Zborovice,Zlin Region,Czech Republic
+2300458,OK5JH,Jiri,,Lanskroun,Pardubice Region,Czech Republic
+2300459,OK1BRJ,Radek,,Litomysl,Pardubice Region,Czech Republic
+2300460,OK2JAA,Jirka,,Ostrava,Moravian-Silesian Region,Czech Republic
+2300461,OK5EE,Jan,,Prague,Prague,Czech Republic
+2300462,OK2NMA,Radek,,Dalesice,Vysocina Region,Czech Republic
+2300463,OK1UEL,Samuel,,Prague,Prague,Czech Republic
+2301001,OK9DTZ,David,,Prague,,Czech Republic
+2301002,OK3ZB,Zdenek,,Praha,,Czech Republic
+2301003,OK1MX,Milan,,Praha,Prague,Czech Republic
+2301004,OK1ALX,Libor,,Hostovlice,Central Bohemian Region,Czech Republic
+2301005,OK4MD,Martin,,Praha,,Czech Republic
+2301006,OK2TN,Miroslav,,Mlada Boleslav,,Czech Republic
+2301007,OK1ALP,Ales,,Prezletice,,Czech Republic
+2301008,OK1MDX,Martin,,Prague,,Czech Republic
+2301009,OK7RB,Ludek,,Jesenice,,Czech Republic
+2301010,OK1XED,Ota,,Stredokluky,,Czech Republic
+2301011,OK1DST,Alexandr,,Cernosice,,Czech Republic
+2301012,OK1ALF,Jiri,,Ricany,Central Bohemian Region,Czech Republic
+2301013,OK1POR,Robert,,Praha,,Czech Republic
+2301014,OK1LOL,Michal,,Prague,,Czech Republic
+2301015,OK2MIC,Jiri,,Praha,,Czech Republic
+2301016,OK1DJO,Martin,,,Prague,Czech Republic
+2301017,OK4JL,Ji,,Praha,,Czech Republic
+2301018,OK4AB,Jaroslav,,Tebotov,,Czech Republic
+2301019,OK1AVK,Ruda,,Prague,,Czech Republic
+2301020,OK1COM,Jan,,Praha,,Czech Republic
+2301021,OK7RC,Petr,,Panosi Ujezd,,Czech Republic
+2301022,OK1SJK,Karel,,Praha,,Czech Republic
+2301023,OK1XFJ,Jan,,Praha,,Czech Republic
+2301024,OK1XJN,Jaroslav,,Sestajovice,,Czech Republic
+2301025,OK1LPD,Michal,,Cernosice,,Czech Republic
+2301026,OK1LCD,Radka,,Cernosice,,Czech Republic
+2301027,OK1EL,Lukas,,Praha,,Czech Republic
+2301028,OK1JM,Jiri,,Drevcice,,Czech Republic
+2301029,OK1UAX,Jiri,,Velke Popovice - Brtnice,,Czech Republic
+2301030,OK1NEU,Jindrich,,Praha,,Czech Republic
+2301031,OK1XLS,Milan,,Sedlčany,Central Bohemian Region,Czech Republic
+2301032,OK2VBZ,Radek,,Praha,,Czech Republic
+2301033,OK2HAZ,Michal,,Praha,,Czech Republic
+2301034,OK1AEB,Karel,,Kladno,,Czech Republic
+2301035,OK1VUM,Miloslav,,Praha,,Czech Republic
+2301036,OK1JR,Stanislav,,Kamenne Zehrovice,,Czech Republic
+2301038,OK4VM,Vasek,,Praha,,Czech Republic
+2301039,OK1DMP,Milan,,Ricany,Central Bohemian Region,Czech Republic
+2301040,OK1MAB,Petr,,,,Czech Republic
+2301041,OK1HAN,Franta,,Velka Dobra,,Czech Republic
+2301042,OK1DSJ,Jiri,,Praha,Central Bohemian Region,Czech Republic
+2301044,OK1MDS,Milos,,Trebenice,Central Bohemian Region,Czech Republic
+2301045,OK1MFI,Filip,,Petihosty,Central Bohemian Region,Czech Republic
+2301046,OK4TOM,Tomas,,Praha,,Czech Republic
+2301047,OK9DMR,Michal,,Praha,Prague,Czech Republic
+2301048,OK1TAM,Svata,,Horomerice,,Czech Republic
+2301049,OK1EYE,Dominik,,Praha,,Czech Republic
+2301050,OK1JTL,Jarda,,Zdar-Doubrava,,Czech Republic
+2301051,OK4FD,Frankie,,Vrane nad Vltavou,,Czech Republic
+2301052,OK1MHU,Hubert,,Lochovice,Central Bohemian Region,Czech Republic
+2301054,OK3PRT,Pavel,,Mnichovo Hradiste,,Czech Republic
+2301055,OK1UEP,Jaroslav,,Mnichovo Hradiste,,Czech Republic
+2301057,OK1JOR,Tom,,Milovice,,Czech Republic
+2301058,OK3MD,David,,Prague,,Czech Republic
+2301059,OK1JPQ,Tomas,,,,Czech Republic
+2301060,OK1DBE,Dan,,Hostivice,,Czech Republic
+2301062,OK1PMP,Michal,,Roždalovice,Central Bohemian Region,Czech Republic
+2301063,OK1AMR,Hugo,,,Prague,Czech Republic
+2301064,OK8GG,Joe,,Praha,,Czech Republic
+2301065,OK1CSS,Stepan,,,,Czech Republic
+2301066,OK1SCJ,Jara,,Praha,,Czech Republic
+2301067,OK9EKG,Kuzmic,,Prague,,Czech Republic
+2301068,OK8YZ,Laciks,,Prague,,Czech Republic
+2301069,OK1BY,Byna,,Neveklov,,Czech Republic
+2301070,OK1FJ,Kuba,,Prague,,Czech Republic
+2301071,OK8EJT,Davide,,Praha,,Czech Republic
+2301073,OK9JVK,Franta,,Praha,,Czech Republic
+2301074,OK1HOT,Frantisek,,Beroun,,Czech Republic
+2301075,OK1DSB,Stan,,Praha,,Czech Republic
+2301076,OK1ZKN,Jaroslav,,Nehvizdy,,Czech Republic
+2301077,OK9DMR,Michal,,Praha,Prague,Czech Republic
+2301079,OK1DL,Dan Lhota,,Lhota,,Czech Republic
+2301080,OK1DSB,Stan,,Praha,,Czech Republic
+2301081,OK1PMP,Michal,,Roždalovice,Central Bohemian Region,Czech Republic
+2301082,OK8OI,Stelios,,Prague,,Czech Republic
+2301083,OK1UYR,Martin,,Pribram,,Czech Republic
+2301084,OK9ATD,Ibra,,Praha,,Czech Republic
+2301085,OK1JTO,Tomas,,Prague,,Czech Republic
+2301086,OK1ZJA,Zdenek,,Kladno,,Czech Republic
+2301087,OK9JVK,Franta,,Praha,,Czech Republic
+2301088,OK1BPN,David,,Prague,,Czech Republic
+2301089,OK1BT,Tomas,,Kralupy Nad Vltavou,,Czech Republic
+2301090,OK1BAR,Vlastik,,,,Czech Republic
+2301091,OK1ASB,MIC,,Doln Beany,,Czech Republic
+2301092,OK1SSX,Jan,,Praha,,Czech Republic
+2301093,OK9JEZ,Jana,,,,Czech Republic
+2301094,OK9MAX,Pavel OK9MAX,,Vsetaty,,Czech Republic
+2301095,OK1PT,Pavel,,Praha,Prague,Czech Republic
+2301096,OK1IZM,Michal,,Praha,,Czech Republic
+2301097,OK1HBP,Miroslav,,Praha,,Czech Republic
+2301098,OK1VF,Luda,,Lazne Tousen,,Czech Republic
+2301099,OK1GEO,Ji,,Prague,,Czech Republic
+2301100,OK1BAR,Vlastik,,,,Czech Republic
+2301101,OK1XPL,Pavel,,Praha,,Czech Republic
+2301102,OK1FRB,Mirek,,,,Czech Republic
+2301103,OK4MPB,Marcel,,Mniek pod Brdy,,Czech Republic
+2301104,OK1FXF,Tom,,Praha,,Czech Republic
+2301105,OK1ID,Dan,,Praha,,Czech Republic
+2301106,OK1VCN,Jiri,,Praha,,Czech Republic
+2301107,OK1JVK,Frantisek,,Praha,,Czech Republic
+2301108,OK6AD,Josef,,Praha,,Czech Republic
+2301109,OK1SOK,Standa,,Praha,,Czech Republic
+2301110,OK2AWA,Zdenek,,Praha,,Czech Republic
+2301111,OK5AJA,Vojta,,Vsetaty,,Czech Republic
+2301112,OK1HPX,Petr,,Melnik,,Czech Republic
+2301113,OK1SB,Standa,,Obristvi,,Czech Republic
+2301114,OK1RIX,Jiri,,Ricany,,Czech Republic
+2301115,OK5KV,Karel,,Prague,Prague,Czech Republic
+2301116,OK1DTE,Daniel,,Praha,Central Bohemian Region,Czech Republic
+2301117,OK4RM,Jindra,,Praha,,Czech Republic
+2301118,OK1DNV,Vaclav,,Praha,,Czech Republic
+2301119,OK1VIP,Jirka,,Praha,,Czech Republic
+2301120,OK1PRD,Prd,,Praha,,Czech Republic
+2301121,OK1NJI,Jiri,,Lazne Tousen,Central Bohemian Region,Czech Republic
+2301122,OK1BOR,Borys,,,,Czech Republic
+2301123,OK1XQ,Jiri,,Doln Kralovice,Central Bohemian Region,Czech Republic
+2301124,OK9WAN,Martin R,,Cesky Brod,,Czech Republic
+2301125,OK1HBP,Miroslav,,Praha,,Czech Republic
+2301126,OK1VWK,Vwk,,Libusin,,Czech Republic
+2301127,OK1BNJ,Tomas,,Benatky nad Jizerou,,Czech Republic
+2301128,OK2IHP,Pavel,,Celakovice,,Czech Republic
+2301129,OK1UDA,Ludek,,Prague,,Czech Republic
+2301130,OK1GEN,Gen,,Tuchlovice,,Czech Republic
+2301131,OK2MDC,Michal,,Prague,,Czech Republic
+2301132,OK1IBM,Petr,,Slany,,Czech Republic
+2301133,OK4JIN,Sobtik,,Chomutov,,Czech Republic
+2301134,OK1DWF,Ok1dwf,,Tynec nad Labem,,Czech Republic
+2301135,OK1PPO,Charlie Rozhledna,,,,Czech Republic
+2301136,OK1SUN,Tomas,,Prague,,Czech Republic
+2301137,OK1SGI,Michal,,Praha,,Czech Republic
+2301138,OK1PT,Pavel,,Praha,Prague,Czech Republic
+2301139,OK1DRV,Ruda zizikov,,,,Czech Republic
+2301140,OK8VE,Eugene,,Nupaky,,Czech Republic
+2301141,OK1ITK,Petr,,Benesov,,Czech Republic
+2301142,OK1SMP,Mirek,,Praha,,Czech Republic
+2301143,OK1BOH,Renda,,Praha,,Czech Republic
+2301144,OK7ZR,Radek,,Pysely,,Czech Republic
+2301145,OK1VBR,Radek,,Milovice,,Czech Republic
+2301146,OK4MMC,Malickej,,Rakovnk,,Czech Republic
+2302001,OK8APJ,Torsten,,Marianske Lazne,,Czech Republic
+2302002,OK1BLG,Peter,,Rokycany,,Czech Republic
+2302003,OK1VHB,Martin,,Psek,,Czech Republic
+2302004,OK1PVT,Pavel,,Klatovy,,Czech Republic
+2302005,OK7RA,Jiri,,Tis u Blatna,,Czech Republic
+2302006,OK7SM,Roman,,Plzen,,Czech Republic
+2302007,OK1CQC,Marcel,,Rokycany,Pilsen Region,Czech Republic
+2302008,OK1MCI,Bob,,Psek,,Czech Republic
+2302009,OK1JBW,Pepicek,,Vodnany,,Czech Republic
+2302010,OK1JRA,Ok1jra,,Plzen,,Czech Republic
+2302011,OK1RPL,Ok1rpl,,Plzen,,Czech Republic
+2302012,OK1JWH,Pavel,,Pisek,,Czech Republic
+2302013,OK1FKT,Frantiiek,,Klatovy,,Czech Republic
+2302014,OK1JLM,Ladislav,,Pisek,,Czech Republic
+2302015,OK1PE,Petr,,DRÁCHOV,South Bohemian Region,Czech Republic
+2302016,OK5MV,Michal,,Veseli Nad Luznici,South Bohemian Region,Czech Republic
+2302018,OK1BL,Peter,,Rokycany,,Czech Republic
+2302021,OK1WJW,Josef,,Halze,Pilsen Region,Czech Republic
+2302022,OK1UFM,Roman,,Blovice,,Czech Republic
+2302023,OK1PCB,Petr,,Bechyne,,Czech Republic
+2302024,OK1PJV,Paja,,Plzen,,Czech Republic
+2302025,OK1ZDA,Lubos,,Plzen,,Czech Republic
+2302026,OK1XC,Josef,,Drachov,,Czech Republic
+2302027,OK1RPT,Milos,,Cervena,,Czech Republic
+2302028,OK9AAO,Oculist,,Nova Bystrice,,Czech Republic
+2302031,OK1BIL,OK1BIL,,Plzen,,Czech Republic
+2302032,OK1PZ,Petr,,Svat Jan nad Mali,,Czech Republic
+2302033,OK1TCP,Tom,,Svihov,,Czech Republic
+2302034,OK1ABB,Miroslav,,Zverotice,South Bohemian Region,Czech Republic
+2302035,OK1TCP,Tom,,Svihov,,Czech Republic
+2302036,OK1DBS,David,,Zahori,,Czech Republic
+2302037,OK1ACE,Vaclav,,Cesky Krumlov,,Czech Republic
+2302038,OK1ACE,Vaclav,,Cesky Krumlov,,Czech Republic
+2302039,OK1PZ,Petr,,Svat Jan nad Mali,,Czech Republic
+2302040,OK5MVI,Michal,,Vesel nad Luznici,,Czech Republic
+2302041,OK1KUH,Radioklub Bechyne,,Bechyne,,Czech Republic
+2302042,OK1ZRD,Rudolf,,Drazice,,Czech Republic
+2302043,OK9HTA,Honza,,Bechyne,,Czech Republic
+2302044,OK3BR,Bohumil,,Rokycany,,Czech Republic
+2302045,OK1SH,Standa,,Domalice,Pilsen Region,Czech Republic
+2302046,OK1HRD,ROMAN,,Domalice,,Czech Republic
+2302047,OK1WN,Standa,,Domazlice,,Czech Republic
+2302048,OK1LST,Libor,,Iesk Budojovice,,Czech Republic
+2302049,OK1KPI,Klub Pisek,,Psek,,Czech Republic
+2302050,OK1MQA,Radek,,Vesel nad Lunic,,Czech Republic
+2302051,OK1TRJ,Michal,,Jindichv Hradec,,Czech Republic
+2302052,OK1LB,Libor,,Tabor,,Czech Republic
+2302053,OK1NMJ,Jiri,,Blizejov,,Czech Republic
+2302054,OK1LN,Lada,,Pisek,,Czech Republic
+2302055,OK1RPZ,Pepa,,Psek,,Czech Republic
+2302056,OK1CPI,Karel,,Pisek,,Czech Republic
+2302057,OK1WLM,Milan Nepodal,,Stahlavy,,Czech Republic
+2303001,OK1UDI,Bedrich,,Frantiskovy Lazne,,Czech Republic
+2303002,OK1SLA,Vaclav,,Lomnice u Sokolova,,Czech Republic
+2303003,OK1IKP,Karel,,Karlovy Vary,,Czech Republic
+2303004,OK5ZS,Zdenek,,Karlovy Vary,,Czech Republic
+2303005,OK5HW,Vladimir,,Most,,Czech Republic
+2303006,OK5DH,Denisa,,Most,,Czech Republic
+2303007,OK1PDM,Petr,,Most,,Czech Republic
+2303008,OK1CTM,Pavel,,Litvinov,,Czech Republic
+2303009,OK1ITE,Roland,,Kadan,Usti nad Labem Region,Czech Republic
+2303010,OK3NR,Lukas,,Roudnice nad Labem,,Czech Republic
+2303011,OK1JMD,Martin,,Ploskovice,Usti nad Labem Region,Czech Republic
+2303012,OK1PDM,Petr,,Most,,Czech Republic
+2303013,OK5RK,Karel,,Luby,,Czech Republic
+2303014,OK8PH,Patrik,,As,Karlovy Vary Region,Czech Republic
+2303015,OK1PAT,PATRIK,,Chomutov,,Czech Republic
+2303017,OK5HW,Vladimir,,Most,,Czech Republic
+2303018,OK1AKE,Jiri,,Lovosice ,Usti nad Labem Region,Czech Republic
+2303019,OK1ZW,Marek,,Snedovice,,Czech Republic
+2303020,OK1SLA,Vaclav,,Lomnice u Sokolova,,Czech Republic
+2303021,OK1VVT,Vasek,,Teplice,,Czech Republic
+2303022,OK1SDR,Tonda,,Mariánské Lázně,Karlovy Vary Region,Czech Republic
+2303023,OK3RS,OK3RS,,Usti na dLabem,,Czech Republic
+2303024,OK1MPO,OK1MPO,,Trebusin,,Czech Republic
+2303025,OK1TZL,Martin,,Nejdek,,Czech Republic
+2303026,OK1XPA,Petr,,Teplice,,Czech Republic
+2303027,OK1XFM,Martin,,Krasna Lipa,,Czech Republic
+2303028,OK1TPC,Pepa Brezenec,,Jirkov,,Czech Republic
+2303029,OK1VKQ,Vaclav,,Karlovy Vary,,Czech Republic
+2303030,OK1GAL,Fabien,,Mikulov,,Czech Republic
+2303031,OK5DM,Majk,,St nad Labem,,Czech Republic
+2303032,OK4GAN,OK4GAN,,Jirkov,,Czech Republic
+2303033,OK4DAN,Dan zatec,,Zatec,,Czech Republic
+2303034,OK5KDN,Nikola,,Kadae,,Czech Republic
+2303035,OK1ZVP,Petr,,Karlovy Vary,,Czech Republic
+2303036,OK1IKP,Karel,,Karlovy Vary,,Czech Republic
+2304001,OK1ZOO,Martin,,Jablonec nad Nisou,,Czech Republic
+2304002,OK7US,Miroslav,,MEZIMESTI,,Czech Republic
+2304003,OK1TPG,Vladimir,,Turnov,,Czech Republic
+2304004,OK1TPF,Lubos,,Turnov,,Czech Republic
+2304005,OK1MAX,Vera,,Pencin,,Czech Republic
+2304006,OK1TEC,Martin,,Liberec,,Czech Republic
+2304008,OK4HM,Miroslav,,Mezimost,,Czech Republic
+2304009,OK1JIL,Mirek,,Vrchlabi,,Czech Republic
+2304010,OK1ZHV,Vojta,,Hradec Kralove,,Czech Republic
+2304011,OK6HJ,HanZ,,Hradec Kralove,,Czech Republic
+2304012,OK1XFA,Maxifik,,,,Czech Republic
+2304013,OK5JS,Jakub,,Ceska Lipa,,Czech Republic
+2304014,OK1GAZ,Petr,,Jicin,,Czech Republic
+2304015,OK1DEJ,Jirka,,Zelezny Brod,,Czech Republic
+2304016,OK1OPS,Andrej,,Vysoke nad Jizerou,,Czech Republic
+2304017,OK1IWA,Ales,,Hradec Kralove,,Czech Republic
+2304018,OK1TEB,Pavel,,Prosec pod Jestedem,,Czech Republic
+2304019,OK4AM,Libor,,Police Nad Metuji,,Czech Republic
+2304020,OK4AM,Libor,,Police Nad Metuji,,Czech Republic
+2304021,OK3UQ,Miroslav,,Čistá u Horek,Liberec Region,Czech Republic
+2304022,OK2JDI,Divis,,Hradec Kralove,,Czech Republic
+2304023,OK5MF,Michal,,Hoice,,Czech Republic
+2304024,OK5DN,Daniel Nepokoj,,Hradec Kralove,,Czech Republic
+2304025,OK1LA,LiAa,,Vamberk,,Czech Republic
+2304026,OK1MKO,Milan,,Opocno,,Czech Republic
+2304027,OK1JE,Ham,,Police nad Metuj,,Czech Republic
+2304028,OK1JRZ,Ruda,,Police nad Metuji,,Czech Republic
+2304029,OK1FUN,Jan,,Doubi,,Czech Republic
+2304030,OK1JIL,Mirek,,Vrchlabi,,Czech Republic
+2304031,OK1IWA,Ales,,Hradec Kralove,,Czech Republic
+2304032,OK1JHR,Jaroslav Hlavka,,Velke Porici,,Czech Republic
+2304033,OK1MRM,Miroslav,,Liberec,,Czech Republic
+2304034,OK1FFI,Rudolf,,,,Czech Republic
+2304035,OK1IF,OK1IF,,Liberec,,Czech Republic
+2304036,OK1USP,Josef,,,,Czech Republic
+2304037,OK1FHG,PETR,,LIBEREC,,Czech Republic
+2304038,OK7OKT,TommyKratochvil,,Jablonec nad Nisou,,Czech Republic
+2304039,OK1DU,Libor,,Jablonec nad Nisou,,Czech Republic
+2304040,OK1MJS,Mirek,,Hradec Kralove,,Czech Republic
+2304041,OK2MTW,Martin OK2MTW,,Liberec,,Czech Republic
+2304042,OK1LK,Stano,,Novi Paka,,Czech Republic
+2304043,OK1KEP,OK1KEP,,Jablonec nad Nisou,,Czech Republic
+2304044,OK1CPF,OK1CPF,,Turnov,,Czech Republic
+2304045,OK1UFI,Josef,,Hodkovice nad Mohelkou,,Czech Republic
+2304046,OK1FFF,Jaroslav,,Chrastava,,Czech Republic
+2304047,OK1PCO,OK1PCO,,Jablonec nad Nisou,,Czech Republic
+2304048,OK1XGH,Pavel,,Jablonec nad Nisou,,Czech Republic
+2304049,OK1NAG,Standa Hradec,,Hradec Kralove,,Czech Republic
+2304050,OK4YOU,Roman HK,,Hradec Krilov,,Czech Republic
+2305001,OK1MSU,Martin,,Jevicko,Pardubice Region,Czech Republic
+2305002,OK2MIB,Silvestr,,Jaromerice,,Czech Republic
+2305003,OK1BF,Roman,,Pardubice,,Czech Republic
+2305004,OK2JF,Jan,,Zdar nad Sazavou,,Czech Republic
+2305005,OK1TF,Josef,,Svratouch,,Czech Republic
+2305006,OK2AF,Milan,,Krizanky,,Czech Republic
+2305007,OK1CDJ,Ondrej,,Pardubice,,Czech Republic
+2305008,OK2ZDL,Jan,,Jihlava,,Czech Republic
+2305009,OK1TPW,Ivan,,Pardubice,,Czech Republic
+2305010,OK1KHL,Radioklub,,Holice,,Czech Republic
+2305011,OK2VMJ,Zdenek,,Krizanov,,Czech Republic
+2305012,OK2JCZ,Martin,,Krizanov,,Czech Republic
+2305013,OK2CNI,Cni,,Jihlava,,Czech Republic
+2305014,OK5AB,Fanndys,,Bransouze,,Czech Republic
+2305015,OK1FWG,OK1FWG,,Pardubice,,Czech Republic
+2305016,OK1VHN,Denis,,Pardubice,Pardubice Region,Czech Republic
+2305017,OK1AAP,Ales,,Prosec,,Czech Republic
+2305020,OK9THE,Roman,,Rosice u Chrasti,,Czech Republic
+2305022,OK2UZL,Ludek,,Knezice,,Czech Republic
+2305023,OK1CEL,Petr,,Usti nad Orlici,,Czech Republic
+2305024,OK2VAT,Petr,,Rovne,,Czech Republic
+2305025,OK1VFC,Vita,,Chotebor,Vysocina Region,Czech Republic
+2305026,OK7OSM,Jirka,,Pardubice,,Czech Republic
+2305027,OK5AG,Emil,,Cepi,,Czech Republic
+2305028,OK6AB,Radek,,Velke Mezirici,,Czech Republic
+2305029,OK1EKO,Ales Dubina,,Pardubice,,Czech Republic
+2305030,OK5LD,Ladislav,,Jevicko,,Czech Republic
+2305031,OK2TOP,Ondrej,,TREBIC,,Czech Republic
+2305032,OK9RKZ,Richard,,Golcuv Jenikov,,Czech Republic
+2305033,OK2PYA,Robert,,Jihlava,,Czech Republic
+2305034,OK2GO,Roman,,Pardubice,,Czech Republic
+2305035,OK9MAT,Martin,,Chrudim,,Czech Republic
+2305036,OK1HDR,OK1HDR,,Pardubice,,Czech Republic
+2305037,OK5AG,Emil,,Cepi,,Czech Republic
+2305038,OK2WKW,Karel,,Jihlava,,Czech Republic
+2305039,OK3JP,Jaroslav,,Holice,,Czech Republic
+2305040,OK1HDX,Jan,,Jihlava,,Czech Republic
+2305041,OK2JIQ,Jirka,,Telc,Vysocina Region,Czech Republic
+2305042,OK8NWO,David Lynch,,Pardubice,,Czech Republic
+2305043,OK2BPV,Standa,,Jihlava,,Czech Republic
+2305044,OK2XSZ,Zdenek,,Batelov,,Czech Republic
+2305045,OK2PLM,Martin,,TeiN,,Czech Republic
+2305046,OK1PFE,Petr,,Chvaletice,,Czech Republic
+2305047,OK1NVJ,Jirka Nova Ves,,Borohridek,,Czech Republic
+2305048,OK1MRU,Tomas,,Priseka,,Czech Republic
+2305049,OK9DAT,David OK9DAT,,CZ,,Czech Republic
+2305050,OK1PZK,Petr,,Luze,,Czech Republic
+2305051,OK2JSE,Jiri,,Trest,,Czech Republic
+2305052,OK2UVB,Bohuslav,,Trest,,Czech Republic
+2305053,OK1FMD,Martin,,Lipoltice,,Czech Republic
+2305054,OK1PNA,Michal,,Nasavrky,,Czech Republic
+2306001,OK2BKR,Jiri,,Brno,,Czech Republic
+2306002,OK4PS,Pavel,,Kromeriz,,Czech Republic
+2306003,OK2MKM,Marcel,,Kromo,,Czech Republic
+2306004,OK2IT,Jiri,,,South Moravian Region,Czech Republic
+2306005,OK2ULQ,Petr,,Brno,Moravian-Silesian Region,Czech Republic
+2306006,OK2PMU,Pavel,,Brno,,Czech Republic
+2306007,OK2OZ,Jirka,,Zlin,,Czech Republic
+2306008,OK2TFP,Filip,,Brno,,Czech Republic
+2306009,OK8KKK,Gabriele,,Brno,,Czech Republic
+2306010,OK2CME,Cestmir,,Brno,,Czech Republic
+2306011,OK2KG,Jiri,,Kotvrdovice,,Czech Republic
+2306012,OK2PCV,Josef,,Velke Opatovice,,Czech Republic
+2306013,OK2PEN,Dalibor,,Brno,,Czech Republic
+2306014,OK1HZ,Jan,,Zlin,,Czech Republic
+2306015,OK2RA,Radek,,Ostrov u Macochy,,Czech Republic
+2306016,OK2JKO,Jan,,Oslavany,,Czech Republic
+2306017,OK1JP,Jan,,Brno,,Czech Republic
+2306018,OK1TE,Jan,,Brno,,Czech Republic
+2306019,OK2XLU,Lubomr,,Zln,,Czech Republic
+2306020,OK2AW,Zdenek,,Breclav,,Czech Republic
+2306021,OK2MO,Marcel,,Slavkov,,Czech Republic
+2306022,OK2VQO,Kamil,,Zlin,,Czech Republic
+2306023,OK2STF,Jiri,,Kromeriz,,Czech Republic
+2306024,OK2CU,Radek,,Zlin,,Czech Republic
+2306026,OK9MNV,Jaroslav,,Uhersky Brod,,Czech Republic
+2306027,OK2VEW,Miroslav,,Zln,,Czech Republic
+2306028,OK2MFR,Radek,,Brno,,Czech Republic
+2306029,OK2KH,Katerina,,Brno,,Czech Republic
+2306030,OK9SBK,Pavel,,Kromeriz,,Czech Republic
+2306031,OK2MFP,Patrik,,Zln,,Czech Republic
+2306032,OK2WX,Vladimir,,Kostelany,,Czech Republic
+2306033,OK3JOZ,Petr,,Brno,,Czech Republic
+2306034,OK3MAR,Marek,,Brno,,Czech Republic
+2306035,OK7SS,Tomas,,Slavin,,Czech Republic
+2306036,OK2SPY,Ok2spy,,Brno,,Czech Republic
+2306037,OK2IG,Igor,,Rajec-Jestrebi Jestrebi,,Czech Republic
+2306038,OK2JR,Rony,,Zlin,,Czech Republic
+2306039,OK9VAS,Jozef,,Velke Opatovice,,Czech Republic
+2306040,OK2PJM,Jakub,,Zlin,,Czech Republic
+2306041,OK2XID,Ptacek,,Vsetin,Zlin Region,Czech Republic
+2306042,OK2IT,Jiri,,,South Moravian Region,Czech Republic
+2306043,OK2MW,Horacio,,Straznice,,Czech Republic
+2306044,OK2MKM,Marcel,,Kromo,,Czech Republic
+2306045,OK2AW,Zdenek,,Breclav,,Czech Republic
+2306046,OK2MOT,Karol,,Bilovice U Uh Hradiste,Zlin Region,Czech Republic
+2306047,OK2SCN,Richard,,Hodonin,,Czech Republic
+2306048,OK2HAD,Frantisek,,Uhersk Brod,,Czech Republic
+2306049,OK2SJR,Jaroui,,Rudice,,Czech Republic
+2306050,OK2SZ,Zdenek,,Lomnice,,Czech Republic
+2306051,OK2SJF,Marek,,Slaviin,,Czech Republic
+2306052,OK7SS,Tomas,,Slavin,,Czech Republic
+2306053,OK2PZP,Lukas,,Zlin,,Czech Republic
+2306054,OK2BLK,Lukas,,Kyjov,,Czech Republic
+2306055,OK2SON,Ondra,,Ostrovanky,,Czech Republic
+2306056,OK2SZ,Zdenek,,Lomnice,,Czech Republic
+2306057,OK7TRI,Michal,,Zlin,,Czech Republic
+2306058,OK7TRI,Michal,,Zlin,,Czech Republic
+2306059,OK2JV,Jiri,,Benesov,,Czech Republic
+2306060,OK2TFP,Filip,,Brno,,Czech Republic
+2306061,OK2XDC,Filip,,Brno,,Czech Republic
+2306062,OK1TGN,Tomas,,Brno,South Moravian Region,Czech Republic
+2306063,OK2GA,Stepan,,Brno,,Czech Republic
+2306064,OK2AMA,Jakub,,Brno,,Czech Republic
+2306065,OK7SE,Saruman,,Brno,,Czech Republic
+2306066,OK9CPU,Petr,,Sokolnice,,Czech Republic
+2306067,OK3ON,Ondra,,Brno,,Czech Republic
+2306068,OK2LK,Lukas,,Kromo,,Czech Republic
+2306069,OK1PKO,Pavel,,Veverski Btika,,Czech Republic
+2306070,OK2HOL,Niki,,Brno,,Czech Republic
+2306071,OK2HH,Jakub,,Brno,,Czech Republic
+2306072,OK9TRZ,Tomas,,Zlin,,Czech Republic
+2306073,OK5KO,Kobla,,Brno,,Czech Republic
+2306074,OK9TMZ,OK9TMZ,,Miskovice,,Czech Republic
+2306075,OK2FBJ,MIROSLAV,,LIDECKO,,Czech Republic
+2306076,OK4KOP,David,,Rajec-Jestrebi,,Czech Republic
+2306077,OK2SDE,Petr,,Vracov,,Czech Republic
+2306078,OK9DTZ,David,,Prague,,Czech Republic
+2306079,OK2USF,Franta,,Vnorovy,,Czech Republic
+2306080,OK2MSH,Marian,,Halenkov,,Czech Republic
+2306081,OK2PAV,PAVel,,Napajedla,,Czech Republic
+2306082,OK9DAL,Tomas Kedzior,,Brno,,Czech Republic
+2306083,OK2BBV,Mirek,,Hulin,,Czech Republic
+2306084,OK2JRQ,Jaroslav,,Brno,,Czech Republic
+2306085,OK2TRN,Bleky,,Hodonin,,Czech Republic
+2306086,OK2CTS,Jarek,,Ivaniice,,Czech Republic
+2306087,OK2YM,Marian,,Halenkov,,Czech Republic
+2306088,OK7LUK,Lukas Chronc,,Brno,,Czech Republic
+2306089,OK5TOM,Tomas,,Breclav,,Czech Republic
+2307001,OK2MZS,Zdenek,,Novy Jicin,,Czech Republic
+2307002,OK6CX,Ivo,,Prostejov,,Czech Republic
+2307003,OK2JKD,Dalibor,,Ostrava,Moravian-Silesian Region,Czech Republic
+2307004,OK2IMK,Martin,,Olomouc,,Czech Republic
+2307005,OK2UEC,Martin,,Stlky,,Czech Republic
+2307006,OK2JIB,Bronajz,,Jesenik,,Czech Republic
+2307007,OK2JBD,Dagmar,,Olomouc,,Czech Republic
+2307009,OK2VR,Midar,,,,Czech Republic
+2307010,OK8GKL,Levi,,Litovel,,Czech Republic
+2307012,OK2JIB,Bronajz,,Jesenik,,Czech Republic
+2307013,OK2SLU,Martin,,Prerov,Olomouc Region,Czech Republic
+2307014,OK2UQL,Gabo,,Cesky Tesin,,Czech Republic
+2307016,OK2SHI,Ivo,,Prerov,,Czech Republic
+2307017,OK1JGX,Matyas,,,,Czech Republic
+2307018,OK9IBR,Ivan,,Bruntil,Moravian-Silesian Region,Czech Republic
+2307019,OK2XAK,Carolus,,Frydek-Mistek,,Czech Republic
+2307020,OK2CET,Radim,,Cesky Tesin,,Czech Republic
+2307021,OK2CRD,Jan,,Tinec,,Czech Republic
+2307022,OK2GMO,Martin,,None,Olomouc Region,Czech Republic
+2307023,OK2VCR,Zdenek,,,,Czech Republic
+2307024,OK2HJ,Jarda,,,,Czech Republic
+2307025,OK2DRL,Honza,,Mrsklesy,,Czech Republic
+2307026,OK2TMS,Tomas,,Tinec,,Czech Republic
+2307027,OK2TVP,Pavel,,Frydek-Mistek,,Czech Republic
+2307028,OK2VMG,JIRKA,,Frydek-Mistek,,Czech Republic
+2307029,OK2VFL,Pavel,,Ostrava,,Czech Republic
+2307030,OK2ET,Vlastik,,Frdek-Mstek,,Czech Republic
+2307031,OK2UYX,Marcel,,Ostrava,,Czech Republic
+2307032,OK2MZL,Martin,,Skoky,,Czech Republic
+2307033,OK2SRO,Honza,,Tyn nad Becvou,,Czech Republic
+2307034,OK2BOZ,Ondrej,,Prostejov,,Czech Republic
+2307035,OK2PA,Janus,,Havirov,,Czech Republic
+2307036,OK2ZK,Zbynek,,Bravantice,,Czech Republic
+2307037,OK2UKX,Jarda,,Prerov,,Czech Republic
+2307038,OK3JS,Jiri,,Vrbno pod Pradedem,Moravian-Silesian Region,Czech Republic
+2307039,OK2JGI,Jan,,Klimkovice,,Czech Republic
+2307040,OK7JK,Jan,,Frydek-Mistek,,Czech Republic
+2307041,OK2VWH,Tomas,,Olomouc,Olomouc Region,Czech Republic
+2307042,OK2IPZ,Petr,,,,Czech Republic
+2307043,OK2MCT,Miroslav Klement,,Pislavice,,Czech Republic
+2307044,OK2VWH,Tomas,,Olomouc,Olomouc Region,Czech Republic
+2307045,OK2XGD,Kamil,,Olomouc,,Czech Republic
+2307046,OK2YLQ,Martina,,Ticha,,Czech Republic
+2307047,OK2MOP,Pavel,,Ostrava,Moravian-Silesian Region,Czech Republic
+2307048,OK2XY,Pavel,,Bravantice,,Czech Republic
+2307049,OK2SR,Ruda,,Olomouc,,Czech Republic
+2307050,OK2TSV,Ladislav,,Krnov,,Czech Republic
+2307051,OK2TSG,Kuba,,Krnov,,Czech Republic
+2307052,OK2VMW,Eva,,Ostrava,,Czech Republic
+2307053,OK2VMV,Jarek,,Ostrava,,Czech Republic
+2307054,OK2MEB,EDUARD,,PREROV,,Czech Republic
+2307055,OK2XLH,Jiri,,Prerov,,Czech Republic
+2307056,OK2IPW,Adam,,Ostrava,,Czech Republic
+2307057,OK2KFM,Vlastik,,Frydek-Mistek,,Czech Republic
+2307058,OK6RS,OK6RS,,Hluiovice,,Czech Republic
+2307059,OK2PKT,Roman,,Krnov,Moravian-Silesian Region,Czech Republic
+2307060,OK9PAT,Standa,,Ostrava,,Czech Republic
+2307061,OK2RL,Richard,,Ostrava - Poruba,,Czech Republic
+2309003,OK1MX,Milan,,Praha,Prague,Czech Republic
+2310001,OM7BJ,Jano,,Bartoiova Lehtka,,Slovakia
+2310002,OM6ZB,Martin,,Zilina,,Slovakia
+2310003,OM6AFY,Mato,,Ruzomberok,,Slovakia
+2310004,OM7AFX,Pavel,,Banska Bystrica,,Slovakia
+2310005,OM0ATR,Rudolf portable,,STROPKOV,,Slovakia
+2310006,OM7FX,Pavel,,Banska Bystrica,,Slovakia
+2310007,OM6PV,Peter,,Vrutky,Banskobystricky  Zilinsky,Slovakia
+2310008,OM2LT,Eric,,Trnava,,Slovakia
+2310009,OM3KWW,Emcomm,,All,Kosicky  Presovsky,Slovakia
+2310010,OM4ALK,Ivan,,Prievidza,,Slovakia
+2310011,OM7AHJ,Formatx,,VELKY KRTIS,Banskobystricky  Zilinsky,Slovakia
+2310012,OM7IR,Ladislav Feher,,Filakovo,,Slovakia
+2310013,OM3TLK,Lubos,,Bratislava,,Slovakia
+2310014,OM0AAB,Bombi,,Vysoke Tatry,,Slovakia
+2310015,OM8AMV,MarekV,,Cana,,Slovakia
+2310016,OM6ADD,ROBO,,DOLNY KUBIN,,Slovakia
+2310017,OM0CS,Kamil,,Snakov,,Slovakia
+2310018,OM7AU,Tarzan BB,,Banski Bystrica,,Slovakia
+2310019,OM7ABC,Jano,,Ziar nad Hronom,,Slovakia
+2310020,OM0AFA,Ado,,Hamuliakovo,,Slovakia
+2310021,OM4DU,Jozef,,Prievidza,,Slovakia
+2310022,OM4DU,Jozef,,Prievidza,,Slovakia
+2310023,OM1ASD,Dominik,,Bratislava,,Slovakia
+2310024,OM6JK,Martin,,Vysoka nad Kysucou,Banskobystricky  Zilinsky,Slovakia
+2310025,OM1XL,Christian,,Bratislava,Bratislavsky,Slovakia
+2310026,OM0EI,Marcel,,Poprad,Kosicky  Presovsky,Slovakia
+2310027,OM8ACP,Peter,,Kosice,Kosicky  Presovsky,Slovakia
+2310028,OM6AWE,Miroslav,,Ružomberok,Banskobystricky  Zilinsky,Slovakia
+2310029,OM8AS,Marek,,Bratislava,Bratislavsky,Slovakia
+2310030,OM0AFM,Marián,,,Kosicky  Presovsky,Slovakia
+2310031,OM3KHT,Horec,,,Banskobystricky  Zilinsky,Slovakia
+2310032,OM6MH,Miloslav,,Liptovsky Hradok,Banskobystricky  Zilinsky,Slovakia
+2310033,OM6ABS,Bohuslav,,Vrútky,Banskobystricky  Zilinsky,Slovakia
+2310034,OM8AFL,Ladislav,,Spišská Nová Ves,Kosicky  Presovsky,Slovakia
+2310035,OM5AVM,Michal,,Dolný Ohaj,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310036,OM7AMS,Miroslav,,Roznava,Kosicky  Presovsky,Slovakia
+2310037,OM1SU,Vladimir,,Bratislava,,Slovakia
+2310038,OM4KW,Roman,,Puchov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310039,OM4DX,Viliam,,Puchov ,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310040,OM4LW,Tomas,,Puchov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310041,OM3TUD,Jan,,Púchov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310042,OM4RF,Viliam,,Puchov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310043,OM3KMK,Club,,Puchov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310044,OM4AA,Michal,,Puchov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310045,OM6APP,Peter,,Vricko,Banskobystricky  Zilinsky,Slovakia
+2310046,OM3TLG,Milos,,Púchov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310047,OM0APG,Pavol,,Presov,Kosicky  Presovsky,Slovakia
+2310048,OM08UV,Richard,,Snina,Kosicky  Presovsky,Slovakia
+2310049,OM1APK,Peter,,Bratislava,Bratislavsky,Slovakia
+2310050,OM1AWG,André Wiggo,,,Bratislavsky,Slovakia
+2310052,OM8AT,Peter,,Kosice,Kosicky  Presovsky,Slovakia
+2310053,OM6ANO,Jan,,Korna,Banskobystricky  Zilinsky,Slovakia
+2310054,OM8AKT,Tomas,,Trebisov,Kosicky  Presovsky,Slovakia
+2310055,OM1AJJ,Jana,,Miloslavov,Bratislavsky,Slovakia
+2310056,OM6ACA,Jozef,,Rakova,Banskobystricky  Zilinsky,Slovakia
+2310057,OM3TFP,Vojtech,,Prievidza,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310058,OM1ALL,Luboš,,Miloslavov,Bratislavsky,Slovakia
+2310059,OM1AU,Martin,,Bratislava,Bratislavsky,Slovakia
+2310060,OM7OK,Jan,,Banska Bystrica,Banskobystricky  Zilinsky,Slovakia
+2310061,OM2ATV,Martin,,Holic,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310062,OM2AMT,Mário,,Kátov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310063,OM0AZM,Martin,,Liptovská Teplička,Kosicky  Presovsky,Slovakia
+2310064,OM1AOE,Marek,,Bratislava,Bratislavsky,Slovakia
+2310065,OM0KK,Ondrej,,Podhorany,Kosicky  Presovsky,Slovakia
+2310066,OM6BPA,Patrik,,Dlha nad Oravou,Banskobystricky  Zilinsky,Slovakia
+2310067,OM8CD,Stefan,,Poprad,Kosicky  Presovsky,Slovakia
+2310068,OM6HF,Jozef,,Ruzomberok,Banskobystricky  Zilinsky,Slovakia
+2310069,OM8AJJ,Jaroslav,,Krompachy,Kosicky  Presovsky,Slovakia
+2310070,OM1DKM,Martin,,Bratislava,Bratislavsky,Slovakia
+2310071,OM1BMI,Michal,,Bratislava,,Slovakia
+2310072,OM1DVR,Michal,,Bratislava,Bratislavsky,Slovakia
+2310073,OM1CMR,Miroslav,,Bratislava,Bratislavsky,Slovakia
+2310074,OM5XM,Michal,,Nove Zamky,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310075,OM7FM,Marek,,Banska Bystrica,Banskobystricky  Zilinsky,Slovakia
+2310076,OM8JAP,Jaroslav,,Koňuš,Kosicky  Presovsky,Slovakia
+2310077,OM1RD,Martin,,Senec,Bratislavsky,Slovakia
+2310078,OM1WR,Michal,,Nova Dedinka,Bratislavsky,Slovakia
+2310079,OM4AEI,Peter,,Dulov,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310080,OM3TFO,Tibor,,Galanta,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310081,OM5ATE,Jan,,Tlmace,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310082,OM0AVT,Ján,,Vranov nad Topľou,Kosicky  Presovsky,Slovakia
+2310083,OM1EAT,Matej,,Bratislava,Bratislavsky,Slovakia
+2310084,OM1HAT,Jozef,,Dunajska Luzna,Bratislavsky,Slovakia
+2310085,OM1ALX,Alex,,Rovinka,Bratislavsky,Slovakia
+2310086,OM1GDI,Igor,,Bratislava,Bratislavsky,Slovakia
+2310087,OM8ATE,Matúš,,Košice,Kosicky  Presovsky,Slovakia
+2310088,OM1JTA,Juraj,,Bratislava,Bratislavsky,Slovakia
+2310089,OM1BOP,Bojan,,Bratislava,Bratislavsky,Slovakia
+2310090,OM1DBF,Martin,,Bratislava,Bratislavsky,Slovakia
+2310091,OM5MI,Marian,,Nove Zamky,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310092,OM1BC,Boris,,Bratislava,Bratislavsky,Slovakia
+2310093,OM8GRS,Marek,,Kosice,,Slovakia
+2310094,OM1BTS,Richard,,Bratislava,Bratislavsky,Slovakia
+2310095,OM4BTW,Tomáš,,Prievidza,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310096,OM1ABC,Miroslav,,Bratislava ,Bratislavsky,Slovakia
+2310097,OM5AF,Pavel,,Nitra,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310098,OM4OK,Branislav,,Skalka nad Vahom,Bratislavsky,Slovakia
+2310099,OM1ASL,Erik,,Bratislava,Bratislavsky,Slovakia
+2310100,OM5AWE,Andrej,,Surany,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310101,OM4AKF,Juraj,,Myjava,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310102,OM6ABF,Filip,,Valca,Banskobystricky  Zilinsky,Slovakia
+2310103,OM1AMJ,Juraj,,Pezinok,Bratislavsky,Slovakia
+2310104,OM7ZY,Robert,,Filakovo,Banskobystricky  Zilinsky,Slovakia
+2310105,OM1PT,Tomas,,Bratislava,Bratislavsky,Slovakia
+2310106,OM1ACK,Ivan,,Bratislava,,Slovakia
+2310107,OM2ADM,Adam,,Kráľov Brod,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310108,OM7JKZ,Jakub,,Sliač,Banskobystricky  Zilinsky,Slovakia
+2310109,OM7WRS,Mikulás,,Rimavská Sobota,Banskobystricky  Zilinsky,Slovakia
+2310110,OM3WRS,Mikulas,,Rimavska Sobota,Banskobystricky  Zilinsky,Slovakia
+2310111,OM5HAM,Miro,,Bratislava,Bratislavsky,Slovakia
+2310112,OM1AI,Filip,,Bratislava,Bratislavsky,Slovakia
+2310113,OM1AJZ,Jozef,,Bratislava,,Slovakia
+2310114,OM1ARH,Ronald,,Bratislava,Bratislavsky,Slovakia
+2310115,OM4AIT,Peter,,Trencin,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310116,OM7SM,Mirko,,,Banskobystricky  Zilinsky,Slovakia
+2310117,OM7AD,Ľubomír,,Prestavlky,Banskobystricky  Zilinsky,Slovakia
+2310118,OM1AME,Vadim,,Bratislava,,Slovakia
+2310119,OM4ATC,Peter,,Lysá Pod Makytou,,Slovakia
+2310120,OM8HML,Michal,,Margecany,Kosicky  Presovsky,Slovakia
+2310121,OM8AVV,Viliam,,Michalovce,Kosicky  Presovsky,Slovakia
+2310122,OM4EMC,Emil,,Pravno,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310123,OM7ESA,Milan,,Banska Bystrica,,Slovakia
+2310124,OM1BTC,Radovan,,Bratislava,Bratislavsky,Slovakia
+2310125,OM1US,Daniel,,,Bratislavsky,Slovakia
+2310126,OM1BAT,Bruno,,,Bratislavsky,Slovakia
+2310127,OM2AMJ,Martin,,Ružindol,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310128,OM5ARN,Arnold,,,,Slovakia
+2310129,OM5GEM,Erik,,Levice,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310130,OM8HOP,Tomas,,Kosice,Kosicky  Presovsky,Slovakia
+2310131,OM8HIP,Lubomira,,Kosice,Kosicky  Presovsky,Slovakia
+2310132,OM8AKV,Viera,,Michalovce,Kosicky  Presovsky,Slovakia
+2310133,OM2ALS,Lubos,,Drahovce,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310134,OM2SD,Stanislav,,Boleráz,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310135,OM2AAA,Martin,,Smolenice,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310136,OM8AZK,Juraj,,Parchovany,Kosicky  Presovsky,Slovakia
+2310137,OM4ACM,Mario,,Prievidza,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310138,OM2AGO,Oliver,,Piestany,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310139,OM2AKD,Drahoslav,,Trnava,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310140,OM8ACF,Lubomir,,ROZNAVA,Kosicky  Presovsky,Slovakia
+2310141,OM3TPS,Peter,,Koseca,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310142,OM5TX,Jozef,,Nove Zamky,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310143,OM1EPT,Patrik,,Most Pri Bratislave,Bratislavsky,Slovakia
+2310144,OM8AC,Vladimir,,Nr Poprad,Kosicky  Presovsky,Slovakia
+2310145,OM7AGI,Igor,,Brezno,Banskobystricky  Zilinsky,Slovakia
+2310146,OM5GU,Imrich,,Nove Zamky,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310147,OM3TSA,Alexander,,Nove Zamky,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310148,OM5TA,Julius,,Kamenny Most,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310149,OM0ABA,Rastislav,,Medzany,Kosicky  Presovsky,Slovakia
+2310150,OM1ISR,Vaclav,,Bratislava,Bratislavsky,Slovakia
+2310151,OM0BED,Peter,,Sabinov,Kosicky  Presovsky,Slovakia
+2310152,OM1DLC,Matus,,Bratislava,Bratislavsky,Slovakia
+2310153,OM4BLK,Lubomir,,Stara Tura,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310154,OM8AVB,Blazej,,Bratislava,Bratislavsky,Slovakia
+2310155,OM6ATM,Milan,,Cadca,Banskobystricky  Zilinsky,Slovakia
+2310156,OM6ANM,Pavol,,Ruzomberok,Banskobystricky  Zilinsky,Slovakia
+2310157,OM8AGI,Branislav,,Zilina,Banskobystricky  Zilinsky,Slovakia
+2310158,OM6ABA,Jozef,,Valca,Banskobystricky  Zilinsky,Slovakia
+2310159,OM7AMD,Igor,,Myto Pod Dumbierom,Banskobystricky  Zilinsky,Slovakia
+2310160,OM2ITO,Ivan,,Cifer,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2310161,OM1JST,Jaroslav,,Bratislava,Bratislavsky,Slovakia
+2310162,OM6APN,Peter,,Dlhe Pole,Banskobystricky  Zilinsky,Slovakia
+2310163,OM2DDT,Daniel,,Gabcikovo,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2311001,OM1ATS,Daniel,,Bratislava,,Slovakia
+2311002,OM1AEG,Anton,,Bratislava,Bratislavsky,Slovakia
+2311003,OM1EI,Marian,,Bratislava,,Slovakia
+2311004,OM1ADS,Dusan,,Bratislava,,Slovakia
+2311005,OM1AL,Vladimir,,Bratislava,Bratislavsky,Slovakia
+2311007,OM1VL,Dodo,,Bratislava,,Slovakia
+2311008,OM5NA,Dezider,,Slovensky Grob,,Slovakia
+2311009,OM1ALF,Miro,,Bratislava,,Slovakia
+2311010,OM1AVA,Amehr,,Bratislava,,Slovakia
+2311011,OM1ADX,Martin,,Bratislava,,Slovakia
+2311013,OM3KFF,Radioklub,,Bratislava,,Slovakia
+2311014,OM1AMP,Peter,,Bratislava,,Slovakia
+2311015,OM1ATX,Jozef,,Bratislava,,Slovakia
+2311016,OM6ATX,Michal,,Jarovce,,Slovakia
+2311017,OM9HQ,SZR,,Stupava,,Slovakia
+2311018,OM8AKE,Peter,,Bratislava,,Slovakia
+2311019,OM1II,Jaroslav,,Bratislava,,Slovakia
+2311020,OM1AM,Ati,,Bratislava,,Slovakia
+2311021,OM6NM,Norbert,,Bratislava,,Slovakia
+2311022,OM1AKU,Meky,,Hlavni,,Slovakia
+2311023,OM1DY,Daniel,,Bratislava,Bratislavsky,Slovakia
+2311024,OM1CI,Jozef,,Senec,,Slovakia
+2311025,OM1ARI,Marcel,,Senec,,Slovakia
+2311026,OM6AND,Oliver,,Bratislava,,Slovakia
+2311027,OM1AFX,Marian,,Chorvatsky Grob,,Slovakia
+2311028,OM8ARD,Dodo,,Malacky,,Slovakia
+2311029,OM1AMB,Michal,,Bratislava,,Slovakia
+2311030,OM1AKM,Matus,,Dunajska Luzna,,Slovakia
+2311031,OM1ST,OM1ST,,Bratislava,,Slovakia
+2311032,OM2RC,Roman,,Solosnica,Bratislavsky,Slovakia
+2312001,OM4TN,Rastislav,,Trencianska Turna,,Slovakia
+2312002,OM4AVG,Mojmir,,Trencianska Turna,,Slovakia
+2312003,OM4AJO,Juraj,,Trencianska Turna,,Slovakia
+2312004,OM2AMR,Radim,,Brunovce,,Slovakia
+2312005,OM1ACL,Robert,,Sekule,,Slovakia
+2312006,OM4ABC,Martin,,Trencin,,Slovakia
+2312007,OM4AVB,Jossi,,Trencin,,Slovakia
+2312008,OM4AMZ,Marcel,,Motesice,,Slovakia
+2312009,OM4DW,Ondro,,Prievidza,,Slovakia
+2312010,OM3YAD,Rudo,,Dubnica nad Vihom,,Slovakia
+2312011,OM5KV,Vlado,,Komarno,,Slovakia
+2312012,OM5KV,Vlado,,Komarno,,Slovakia
+2312013,OM3TKT,Jozef,,Sturovo,,Slovakia
+2312014,OM5AST,Tomas,,Bratislava,Bratislavsky,Slovakia
+2312015,OM5AMG,Gabi,,Kolarovo,,Slovakia
+2312016,OM5AX,Peter,,Hostie,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2312017,OM2ABC,Stefan,,Velka Paka,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2312018,OM2APC,Palo,,Senica,,Slovakia
+2312019,OM2ACM,Miro,,Senica,,Slovakia
+2312020,OM3WUC,Peter,,Bratislava,Bratislavsky,Slovakia
+2312021,OM4EX,Ondrej,,Prievidza,,Slovakia
+2312022,OM2MO,Miroslav,,Hlohovec,,Slovakia
+2312023,OM5AZS,Pet,,Nove Zamky,,Slovakia
+2312024,OM2JU,JanU,,Moravany nad Vahom,,Slovakia
+2312025,OM4DP,Dan,,Dubnica nad Vahom,,Slovakia
+2312026,OM3TSR,Marian,,Piestany,,Slovakia
+2312027,OM2AMS,Marek,,Velka Paka,,Slovakia
+2312028,OM3CLT,Bmb,,Vlcany,,Slovakia
+2312029,OM5AMD,Martin,,Nove Zamky,,Slovakia
+2312030,OM2ABC,Stefan,,Velka Paka,Nitriansky  Trenciansky  Trnavsky,Slovakia
+2312031,OM4MO,Peter,,Raztocno,,Slovakia
+2313001,OM6AXE,Jan,,Zilina,Banskobystricky  Zilinsky,Slovakia
+2313002,OM6ADQ,Erik,,Zilina,,Slovakia
+2313003,OM7TW,Dusan,,Banska Bystrica,Banskobystricky  Zilinsky,Slovakia
+2313004,OM7AZA,Martin,,Lucenec,Banskobystricky  Zilinsky,Slovakia
+2313005,OM7AFX,Pavel,,Banska Bystrica,,Slovakia
+2313006,OM6RU,Branislav,,Dolny Kubin,,Slovakia
+2313007,OM3WAN,Alojz,,Brodno,,Slovakia
+2313008,OM3WIM,Vlado,,Zilina,,Slovakia
+2313009,OM7AJK,Gejza,,Zvolen,,Slovakia
+2313011,OM7AXT,Tekk,,Banska Bystrica,,Slovakia
+2313012,OM7ARK,Charli,,Luienec,,Slovakia
+2313014,OM3WXO,Ludo,,Banska Bystrica,,Slovakia
+2313015,OM7ARO,Helka,,Banska Bystrica,,Slovakia
+2313016,OM7KA,Mino,,Banska Bystrica,,Slovakia
+2313017,OM6AT,Martin,,Martin,,Slovakia
+2313018,OM7AMA,Miro,,Banska Bystrica,,Slovakia
+2313019,OM3KXT,Klub OM3KXT,,Banska Bystrica,,Slovakia
+2313020,OM6AJS,Dragon,,,,Slovakia
+2313022,OM7ANT,Webo,,Banska Bystrica,Banskobystricky  Zilinsky,Slovakia
+2313023,OM7TY,Jano,,Banski Bystrica,,Slovakia
+2313024,OM7PY,Erwin,,Lucenec,,Slovakia
+2313025,OM7IT,Jaromir,,Slovenska Lupca,Banskobystricky  Zilinsky,Slovakia
+2313026,OM7AMV,Milan,,Banski Bystrica,,Slovakia
+2313027,OM6AM,Jozef,,Martin,,Slovakia
+2313028,OM6AR,Frantisek,,Zilina,,Slovakia
+2313029,OM7ASX,Robo,,Zvolen,,Slovakia
+2313030,OM6AAW,Lubo,,Martin,,Slovakia
+2313031,OM6SZ,Milan,,Ilina,,Slovakia
+2313032,OM6ABE,Milan,,Zilina,,Slovakia
+2313033,OM6AS,Rio,,Martin,,Slovakia
+2313034,OM6AVP,OM6AVP,,Vrutky,,Slovakia
+2313035,OM7ADN,Norbert,,Luienec,Banskobystricky  Zilinsky,Slovakia
+2313036,OM7AHU,Erik  Hurikan,,Banski Bystrica,,Slovakia
+2313037,OM7VP,Vladimir,,Banska Bystrica,Banskobystricky  Zilinsky,Slovakia
+2313038,OM7TE,Tekk,,Banska Bystrica,,Slovakia
+2313039,OM6AJJ,Jozef,,Ruzomberok,,Slovakia
+2313040,OM6AI,Peter,,Martin,Banskobystricky  Zilinsky,Slovakia
+2313041,OM7ATD,Tibor,,Lucenec,Banskobystricky  Zilinsky,Slovakia
+2313042,OM7ASA,OM7ASA,,Banska Bystrica,,Slovakia
+2313043,OM6AA,Rasto,,Drazkovce,,Slovakia
+2313044,OM6AMR,Michal,,Pribovce,,Slovakia
+2313045,OM6CM,Fero,,Neslusa,,Slovakia
+2313046,OM7AJL,Jin,,Luienec Lehotka,,Slovakia
+2313047,OM7AFH,Frantisek,,Luienec,,Slovakia
+2313048,OM6LP,Lojzo,,Kokava nad Rimavicou,,Slovakia
+2313049,OM7AVC,Vilo,,Kalinovo,,Slovakia
+2313050,OM7JN,Jarda,,Lucenec,,Slovakia
+2313051,OM7AHL,LAHU,,Lucenec,,Slovakia
+2313052,OM6ABR,Ivan,,Kostany nad Turcom,,Slovakia
+2313053,OM7ATC,Tomas,,Lucenec,,Slovakia
+2313054,OM1PU,Michal,,Dunajská Lužná,Bratislavsky,Slovakia
+2313055,OM7ATD,Tibor,,Lucenec,Banskobystricky  Zilinsky,Slovakia
+2313056,OM7ADN,Norbert,,Luienec,Banskobystricky  Zilinsky,Slovakia
+2313057,OM7TEK,Tekk,,Banska Bystrica,,Slovakia
+2313058,OM7SX,OM7SX,,Zvolen,,Slovakia
+2314001,OM8AIB,Stefan,,Kosice,,Slovakia
+2314002,OM8AKX,Peter,,Kosice,,Slovakia
+2314003,OM8KT,Martin,,Kosice,Kosicky  Presovsky,Slovakia
+2314004,OM8AMR,Radomir,,Poprad,,Slovakia
+2314005,OM8KT,Martin,,Kosice,Kosicky  Presovsky,Slovakia
+2314007,OM8WW,Brano,,,Kosicky  Presovsky,Slovakia
+2314008,OM3WZX,Peter,,Snina,,Slovakia
+2314009,OM8BU,Bubu,,Kosice,,Slovakia
+2314010,OM8ABJ,Bleky,,Kosice,,Slovakia
+2314013,OM0ANO,Michal,,,,Slovakia
+2314014,OM8ST,Stanley,,Kosice,,Slovakia
+2314015,OM0RW,Ed,,Snina,,Slovakia
+2314016,OM8AFR,Frankie,,Kosice,Kosicky  Presovsky,Slovakia
+2314017,OM8FT,Stehlo,,Medzev,,Slovakia
+2314018,OM8AGG,Gusto,,Koiice,,Slovakia
+2314019,OM8ACD,Miso,,Kosice,,Slovakia
+2314020,OM8ATS,Rudo,,Koiice,,Slovakia
+2314021,OM8AE,Marek,,Kosice,,Slovakia
+2314022,OM0UA,Jozef,,Sunava,Kosicky  Presovsky,Slovakia
+2314023,OM8AAM,Marek,,Gelnica,,Slovakia
+2314026,OM8JS,Jano,,Kosice,,Slovakia
+2314027,OM8KD,Imi,,Koiice,,Slovakia
+2314028,OM8AKX,Peter,,Kosice,,Slovakia
+2314029,OM8AKZ,Jozef,,Kosice,,Slovakia
+2314030,OM8AEO,Emo,,Kosice,,Slovakia
+2314031,OM0AYY,PalkoC,,Kosice,,Slovakia
+2314032,OM8AMR,Radomir,,Poprad,,Slovakia
+2314033,OM8AFM,Marek,,Koiice,,Slovakia
+2314034,OM8ACO,Dalibor,,Rudnk,,Slovakia
+2314035,OM8ATI,Atti,,,Kosicky  Presovsky,Slovakia
+2314036,OM0AD,Ivan,,Malcov,,Slovakia
+2314037,OM8UA,Stan,,Liptovska Teplicka,,Slovakia
+2314038,OM6LL,OM6LL,,Sol,,Slovakia
+2314040,OM0AWW,Tom,,Spisske Podhradie,,Slovakia
+2314041,OM0XA,Duro,,Poprad,Kosicky  Presovsky,Slovakia
+2314042,OM0HGP,Milan,,Presov,Kosicky  Presovsky,Slovakia
+2314043,OM0AJA,Jozef,,Aariisk Michaany,,Slovakia
+2314044,OM0IC,Jaroslav,,Preiov,,Slovakia
+2314045,OM0AGP,Peter,,Spissky Stiavnik,Kosicky  Presovsky,Slovakia
+2314046,OM0WT,Pavol,,Kosice,Kosicky  Presovsky,Slovakia
+2314047,OM8AMV,MarekV,,Cana,,Slovakia
+2314048,OM0ATE,Marcel,,Presov,,Slovakia
+2314049,OM0AJ,Jan,,Sunava,Kosicky  Presovsky,Slovakia
+2314050,OM0ATR,Rudolf portable,,STROPKOV,,Slovakia
+2314112,OM3KLL,EmComm OM3KLL,,Koiice,,Slovakia
